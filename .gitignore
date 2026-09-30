@@ -1,2 +1,17 @@
+data/
+data/*
+*.jpg
+*.png
+*.zip
 
 weights/
+weights/*
+*.pth
+*.pt
+
+__pycache__/
+*.py[cod]
+*$py.class
+.vscode/
+.idea/
+*.log
