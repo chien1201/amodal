@@ -1,0 +1,1721 @@
+{
+    "COCO_val2014_000000373356": {
+        "image_info": {
+            "license": 5,
+            "file_name": "COCO_val2014_000000373356.jpg",
+            "coco_url": "http://mscoco.org/images/373356",
+            "height": 640,
+            "width": 507,
+            "date_captured": "2013-11-21 02:13:18",
+            "flickr_url": "http://farm8.staticflickr.com/7288/9429563323_e5779e17e0_z.jpg",
+            "id": 373356
+        },
+        "annotations_count": 3,
+        "annotations": [
+            {
+                "segmentation": {
+                    "counts": "obX3:cc06K3M3N2O1N2N2O0O1O2O000O10001N11O000000001O0O1O2O1N1O3M2N2M4K5L5HUQo5",
+                    "size": [
+                        640,
+                        507
+                    ]
+                },
+                "area": 904,
+                "iscrowd": false,
+                "visible_mask": {
+                    "counts": "obX3:cc06K3M3N2O1N2N2O0O1O2O000O10001N11O000000001O0O1O2O1N1O3M2N2M4K5L5HUQo5",
+                    "size": [
+                        640,
+                        507
+                    ]
+                },
+                "image_id": 373356,
+                "bbox": [
+                    167.0,
+                    209.0,
+                    34.0,
+                    35.0
+                ],
+                "occlude_rate": 0,
+                "category_id": 37,
+                "id": 302627,
+                "category_name": "sports ball",
+                "supercategory": "sports"
+            },
+            {
+                "segmentation": {
+                    "counts": "cgh29S70R57hJ6nI2W90iL9^I4]9KSMe1lLSNX1`0j1b1gLVNl0h0[2T1dL\\NXMjNB7e1n2k4IcL]NSMXOL3<g2P6DaL`NPMS4^6^M_LY4`3iK]LY4b3iK[LY4e3hKXLZ4h3fKVL\\4j3eKbKn4]4TK`Kn4`4RK]KQ5j2gGQM_3Km4S3fG`KK\\1f3Lk4P3aGhK5OMX1o3^Of4c3lGmLb3ZOe4h3jGlLf3VOc4n3hGiLj3SOa4T4fGgLS=X3oBeLS=Q2SBYNm0CQ=o1^BVNc0IP=m1gBTN9OP=i1nBSN5^OnNa0o=l1SCPN2ClNa0o=k1WCmM0FkNa0n=k1ZCkM29e<j1PEUNQ;j1oDWNQ;h1PEWNQ;g1SEVNn:i1SEWNm:i1TEUNm:j1UEUNk:j1WETNj:k1WETNj:k1WEUNi:k1XESNi:l1XERNj:m1WERNj:m1XEQNi:n1e3O100O10000O100O100O10000O1000000O10000O100001O0000001O0000001O00001O001O00001O001O001O001O2N1O1O1O2N1O1O2N1O2N1O1K6K6J8I5J3N3M2N2O1N3M2M3hAZLR<i3nCXLo;k3PDWLk;m3TDULg;o3XDSLg;m3YDSLi;j3cBjK^1>P<f3bBmKb00Kd0S=\\3aBRL<1Nd0V=X3^BUL;1Od0Z=T3\\BXL91Of0]=P3ZBZL90Nh0a=l2XB\\L90Lj0e=j2TB]L91Kj0j=Q3ZB]Mi=d2SB]Mo=Y42N2N2O2M2O1N2O1N2O1N1O00000000000001O0000001O001O0000O1O100000000001OO100O1000000O10000O1001O0dHmJKS5OYKKg40_LoNa3l0gLQOY3j0nLTOR3d0XMZOh2?`M@`29gMGY21PNNP2IYN7f1BbN>^1YOlNf0T1iN]OW1c0UN2j1NhM`0X2@fMb0Z2^OdMe0[2[OcMg0]2YOaMj0^2WO`Mj0`2VO^Mm0a2SO^Mn0b2RO]MP1b2PO]MQ1c2oN]MR1b2nN]MS1c2mN\\MU1c2lN\\MU1c2kN\\MV1d2jN[MX1d2hN\\MY1c2gN\\M]1kMbIk3Q5ZN_1eMfIo3l4ZN]2c1cM]N_2a1aM^Nc2_1\\MbNg2[1YMeNi2Y1WMgNl2V1UMiNm2U1SMjNQ3S1oLmNR3R1nLnNS3Q1nLnNS3Q1nLnNT3P1lLPOU3o0lLoNV3P1jLPOX3n0hLROY3m0gLSO[3k0eLUO]3i0cLVOa3g0_LYOc3e0]LZOg3c0YL]Oj3`0WL_Ok3?VL_On3>RLBS49mKGX44iKJ]41bK0d4J\\K6h4FXK9k4ETK<n4BRK>P5@PK`0S5]OmJc0U5[OkJd0Y5YOgJg0]5UOcJk0a5QO_Jo0f5lNZJT1j5hNVJW1m5QNeD=^5b1o5mMhD>Y5e1[6YNeIf1_6WNaIi1a6UN_Ik1c6SN]Im1d6RN\\Im1g6QNYIo1i6oMWIQ2k6lMVIS2\\<0000O1000000O101O0O1000000O1000O0100000O010O10O0100O10O10O1000O10O10O100000O010000O01000O10000O10O10O01O10O01O10O10000O101O0O100O100O100O2O0O100O100O100O100O100O1O100O100O1O010O100O1O100O100O100O100O100O10000OnJ",
+                    "size": [
+                        640,
+                        507
+                    ]
+                },
+                "area": 112229,
+                "iscrowd": false,
+                "visible_mask": {
+                    "counts": "cgh29S7NT59fJNkJEZ8e0iLJkJEP8i0SMFkJEQ2=X1`0j1BkJDl1b0l0h0[2UOkJBi1i0XMjNB7e1n2k4jMlJ_Og1m0SMXOL3<g2P6eMlJ^Oe1Q1PMS4^6`KkJ]Od1j6`3lIkJZOb1l6b3lIkJYO`1m6e3lIiJXO_1n6h3kIiJVO]1Q7j3kIgJUOk0c7]4[IfJSOj0d7`4ZIfJQOg0h7j2gGQMb1\\OVO?d7S3fG`KK\\1g1AWO;c7P3aGhK5OMX1g1E]OIa7c3lGmLX1F^ODa7h3jGlL[1F]O@a7n3hGiL]1I\\OZOb7T4fGgL_1Ib8_3QFeL`1K_8V2WEYNm0C`1M[8R2dEVNc0IOA8=b9o1nETN9OLG97c9k1VFSN5^OnNa0i0O;4b9i1\\FPN2ClNa0g02=1a9h1aFmM0FkNa0e05?N_9h1eFkM29\\O7>L_9g1\\HUNgM:>J^9f1]HWNfM;?H]9e1_HWNfM<?H[9c1dHVNbM`0`0GY9b1fHWN`Mb0b0CX9d1gHUN`Md0a0EV9a1kHUN^Me0b0ET9`1nHTN\\Mh0c0DR9_1PITN\\Mi0c0DP9^1RIUN[Mj0c0Co8^1TISNZMm0c0Cn8\\1VIRN\\Mn0a0Dl8[1XIRN\\Mo0a0Dj8Z1[IQN[MQ1a0Dh8Y1\\JSOlLEkN\\O_9k1kJTOlLEeNAc9f1mJSOlLF`NEf9a1oJSOmL4S8i0PKROnL6Q8h0RKQOnL8n7f0VKPOnL9l7g0VKoNPM9j7g0YKmNnL=h7f0[KkNoLc0a7a0bKiNPMg0\\7`0fKdNQMl0Y7`0hK`NRMP1U7?mKYNTMX1n6?\\NAc1?]NBb1>_NB`1=bNC]1=cND\\1<eNC[1<gNCY1=gNCY1=gNCY1>gNAY1?gNAY1?fNBZ1>fNBZ1?eNA[1?eNBZ1>fNBZ1>eNC[1>dNA]1?bNB^1>bNB^1?aN@`1`0`N@`1a0_N_Oa1a0_N_Oa1a0_N@`1a0`N^O`1b0aN^O^1c0bN\\O^1d0bN\\O^1e0bNZO^1f0cNYO]1h0cNWO]1k0bNSO_1n0bNUN\\Ha0R9[1nNaNS1`1mN_NS1c1lN[NU1f1kNYNU1h1kNTNX1n1gNoM[1R2hNgM[1[2T81O1K6K6J8I5J3N3M2N2O1N3M2M3hAZLR<i3nCXLo;k3PDWLk;m3TDULg;o3XDSLg;m3YDSLi;j3cBjK^1>P<f3bBmKb00Kd0S=\\3aBRL<1Nd0V=X3^BUL;1Od0Z=T3\\BXL91Of0]=P3ZBZL90Nh0a=l2XB\\L90Lj0e=j2TB]L91Kj0j=Q3ZB]Mi=d2SB]Mo=Y42N2N2O2M2O1N2O1N2O1N1O00000000000001O0000001O001O0000O1O100000000001OO100O1000000O10000O1001O0dHmJKS5OYKKg40_LoNa3l0gLQOY3j0nLTOR3d0XMZOh2?`M@`29gMGY21PNNP2IYN7f1BbN>^1YOlNf0T1iN]OW1c0UN2j1NhM`0X2@fMb0Z2^OdMe0[2[OcMg0]2YOaMj0^2WO`Mj0`2VO^Mm0a2SO^Mn0b2RO]MP1b2PO]MQ1c2oN]MR1b2nN]MS1c2mN\\MU1c2lN\\MU1c2kN\\MV1d2jN[MX1d2hN\\MY1c2gN\\M]1kMbIk3Q5ZN_1eMfIo3l4ZN]2c1cM]N_2a1aM^Nc2_1\\MbNg2[1YMeNi2Y1WMgNl2V1UMiNm2U1SMjNQ3S1oLmNR3R1nLnNS3Q1nLnNS3Q1nLnNT3P1lLPOU3o0lLoNV3P1jLPOX3n0hLROY3m0gLSO[3k0eLUO]3i0cLVOa3g0_LYOc3e0]LZOg3c0YL]Oj3`0WL_Ok3?VL_On3>RLBS49mKGX44iKJ]41bK0d4J\\K6h4FXK9k4ETK<n4BRK>P5@PK`0S5]OmJc0U5[OkJd0Y5YOgJg0]5UOcJk0a5QO_Jo0f5lNZJT1j5hNVJW1m5QNeD=^5b1o5mMhD>Y5e1[6YNeIf1_6WNaIi1a6UN_Ik1c6SN]Im1d6RN\\Im1g6QNYIo1i6oMWIQ2k6lMVIS2\\<0000O1000000O101O0O1000000O1000O0100000O010O10O0100O10O10O1000O10O10O100000O010000O01000O10000O10O10O01O10O01O10O10000O101O0O100O100O100O2O0O100O100O100O100O100O1O100O100O1O010O100O1O100O100O100O100O100O10000OnJ",
+                    "size": [
+                        640,
+                        507
+                    ]
+                },
+                "image_id": 373356,
+                "invisible_mask": {
+                    "counts": "Voh22Pd06k\\O=_a0Jo]O?Sb0f02N2N2O1N2N2O0O2N101N2N101N1O2O0O2N101N1O2O_NB__O=^`0I`_O7]`0Lc_O4Z`0Of_O1X`01i_ONV`03j_OLU`06k_OJS`08m_OHR`08o_OHo?9R@Gl?;U@Ck?=U@Ei?;X@Ef?<[@Dd?<]@Db?=^@C`?>`@C`?<a@D^?<c@D\\?<e@DZ?<f@EkN\\OQ`0o0UAEeNAV`0i0VAF`NEY`0d0YA4f>K[A6e>I\\A8c>F_A9a>FaA9a>D`A=`>AbAc0Z>ZOiAg0W>TOlAl0V>POmAP1U>hNQBX1\\`00O10000O10O1O00001O00O1000001O0O10O01000O100000010O100O001O1O1O1N3SOU]Oa0Xc0L2O1N2O1L4M6IdYU5",
+                    "size": [
+                        640,
+                        507
+                    ]
+                },
+                "bbox": [
+                    141.0,
+                    55.0,
+                    366.0,
+                    585.0
+                ],
+                "occlude_rate": 0.03808284846128824,
+                "category_id": 1,
+                "id": 486081,
+                "category_name": "person",
+                "supercategory": "person"
+            },
+            {
+                "segmentation": {
+                    "counts": "oYg0=[c0=H8H7J7J4K4M3M4K4M3L4M3N3M2N1N2O2N1O1N2O1O1O2M2O1O1N2O1O2N100O1O100O1O1O100O00100O1O1O100O1000O010O10O010O0100O010O10O01O1O010O1O1O1O010O1O1O010O1O1O1O001O2N1O2N1O1O2N1N2O2N1O2N1O2N1O2N2N1N3N2N1O2N2N1O2N2N1O2N2N2N2N2N2N2O1N2N2O0O2N101N2N101N1O2O0O2N101N1O2O0O1000001O0O100000001N02O0000000O1000000O1000001N10O1000O10000O10O1000O10000O0100000O10000O0100000O10000O0100000O10000O0100O1O001O1O1N101N2O1N2O1L4M6IdYU5",
+                    "size": [
+                        640,
+                        507
+                    ]
+                },
+                "area": 12504,
+                "iscrowd": false,
+                "visible_mask": {
+                    "counts": "oYg0=[c0=H8H7J7J4K4M3M4K4M3L4M3N3M2N1N2O2N1O1N2O1O1O2M2O1O1N2O1O2N100O1O100O1O1O100O00100O1O1O100O1000O010O10O010O0100O010O10O01O1O010O1O1O1O010O1O1O010O1O1O1O001O2N1O2N1O1O2N1N2O2N1O2N1O2N1O2N2N1N3N2N1O2N2N1O2N2N1O2N2N2N2N2N2N2O1N2N2O0O2N101N2N101N1O2O0O2N101N1O2O0O1000001O0O100000001N02O0000000O1000000O1000000O01O1000O1000N101O1O1O00100O001O100O1N2O1O1O2M4LPY6NSgI0O2O0O100O100O0CLo\\O5nb0OP]O1Rc0Nm\\O3Tc0Lj\\O5Xc0Lc\\O7^c024M6IdYU5",
+                    "size": [
+                        640,
+                        507
+                    ]
+                },
+                "image_id": 373356,
+                "invisible_mask": {
+                    "counts": "mQg31oc01O010000000N2O1O001O1O100O1O00100O1@FW]O<ib0DV]O=jb0CU]O>jb0CU]O=lb0DQ]O>ob0Dm\\O>Sc08O10000O0100000O1000O001N2O1N101N2O1N1Bc\\O8dc0N1O1N4KfUW5",
+                    "size": [
+                        640,
+                        507
+                    ]
+                },
+                "bbox": [
+                    37.0,
+                    160.0,
+                    205.0,
+                    189.0
+                ],
+                "occlude_rate": 0.059820857320871654,
+                "category_id": 43,
+                "id": 655859,
+                "category_name": "tennis racket",
+                "supercategory": "sports"
+            }
+        ]
+    },
+    "COCO_val2014_000000297604": {
+        "image_info": {
+            "license": 4,
+            "file_name": "COCO_val2014_000000297604.jpg",
+            "coco_url": "http://mscoco.org/images/297604",
+            "height": 480,
+            "width": 640,
+            "date_captured": "2013-11-18 08:54:13",
+            "flickr_url": "http://farm5.staticflickr.com/4147/4955367065_6a21e6e4a3_z.jpg",
+            "id": 297604
+        },
+        "annotations_count": 2,
+        "annotations": [
+            {
+                "segmentation": {
+                    "counts": "_fm4320e>6PBHW=9hBIV=7iBKW=5gBLY=7aBL`=5]BLGHk=;XBFM71Ij=k0VBUOl=h0VBYOi=f0VB[Ok=b0WB_Oi=>XBCi=;VBFl=:RBGo=d01N1O2N2K5007I4K4M2N00000000EVB@j=`0YB]Og=e0ZBXOf=l053M7UBhN`=X1`BhN`=X1_BiNa=W1^BkNa=Z11N1YOcBK^=1iBKW=2PCJQ=3TCIn<3WCKk<0chh3",
+                    "size": [
+                        480,
+                        640
+                    ]
+                },
+                "area": 1291,
+                "iscrowd": false,
+                "visible_mask": {
+                    "counts": "_fm4320e>6PBHW=9hBIV=7iBKW=5gBLY=7aBL`=5]BLGHk=;XBFM71Ij=k0VBUOl=h0VBYOi=f0VB[Ok=b0WB_Oi=>XBCi=;VBFl=:RBGo=d01N1O2N2K5007I4K4M2N00000000EVB@j=`0YB]Og=e0ZBXOf=l053M7UBhN`=X1`BhN`=X1_BiNa=W1^BkNa=Z11N1YOcBK^=1iBKW=2PCJQ=3TCIn<3WCKk<0chh3",
+                    "size": [
+                        480,
+                        640
+                    ]
+                },
+                "image_id": 297604,
+                "bbox": [
+                    336.0,
+                    203.0,
+                    46.0,
+                    46.0
+                ],
+                "occlude_rate": 0,
+                "category_id": 1,
+                "id": 424357,
+                "category_name": "person",
+                "supercategory": "person"
+            },
+            {
+                "segmentation": {
+                    "counts": "\\TY41n>1O1L4J6M3O00100O100O1O1O001O1N2O1O1O1O001O1N20000000O100000000000000000000O10001O001O1O1O1O1OO100000O010000O10000001O00001O00000000O10O100000000000000000000O1000000000000000000O1000000000001O001O000O2O00001O001O00001O00001O001O1O001O1O1O001O1O1N101NRjW3",
+                    "size": [
+                        480,
+                        640
+                    ]
+                },
+                "area": 2620,
+                "iscrowd": false,
+                "visible_mask": {
+                    "counts": "\\TY41n>1O1L4J6M3O00100O100O1O1O001O1N2O1O1O1O001O1N20000000O100000000000000000000O10001O001O1O1O1O1OO100000O011OO100O100001O00001O00000000O10O1000000000000000005\\OcA;]>EcA:^>EcA;]>DeA;`>0O10000GDnA<R>GjA:V>HhA8X>71000000000001O001O000O2O00001O001O00001O00001O001O1O001O1O1O001O1O1N101NRjW3",
+                    "size": [
+                        480,
+                        640
+                    ]
+                },
+                "image_id": 297604,
+                "invisible_mask": {
+                    "counts": "_nQ51nm00Rk94SWELd>4\\ALd>4[AMe>3ZAOe>60O10001O3L3N[Ui3",
+                    "size": [
+                        480,
+                        640
+                    ]
+                },
+                "bbox": [
+                    292.0,
+                    235.0,
+                    126.0,
+                    34.0
+                ],
+                "occlude_rate": 0.030916030522551135,
+                "category_id": 22,
+                "id": 582995,
+                "category_name": "elephant",
+                "supercategory": "animal"
+            }
+        ]
+    },
+    "COCO_val2014_000000484441": {
+        "image_info": {
+            "license": 6,
+            "file_name": "COCO_val2014_000000484441.jpg",
+            "coco_url": "http://mscoco.org/images/484441",
+            "height": 428,
+            "width": 640,
+            "date_captured": "2013-11-23 00:32:12",
+            "flickr_url": "http://farm9.staticflickr.com/8366/8462064162_881be9d7c9_z.jpg",
+            "id": 484441
+        },
+        "annotations_count": 4,
+        "annotations": [
+            {
+                "segmentation": {
+                    "counts": "jld31Y=6J7D;TOl0K6K4K1O2N2N101N1O1O10O01O10O10O1000O2O2N1N2N2N2O2M2N1O1O1O2N12N2N2N2O2^M]NUIf1c6dNVIa1b6hNYI]1^6mN\\IW1`6mN\\IU1b6oNYIT1e6POWIR1f6SOVIo0h6VOSIl0k6@hHc0V7k2N2N1O1O2O0000000O100000001O0O1000000000000000000000000001O001O1O001O1O001O1O1O1N3N1hJ]He4d7TKdH1E`4]8_KcG_4_8`KcG]4`8bK`G[4c8dK^GZ4d8fK\\GX4f8gK\\GV4f8jKZGT4i8jKXGS4k8mKUGQ4V9L3N001N101N101O3L3N3L3N44LK4M3L5L3L4L3N3L5L`0_O;F2M2O2M11O2N2N5J1000bN[DU1e;kN[DT1f;kN\\DT1d;kN^DT1b;lN^DT1b;kN`DT1`;lN`DT1`;kNaDU1`;jN`DV1a;hNaDV1k;O1O1O1O1O1O1O2N3K4K5E]CHg<2gad2",
+                    "size": [
+                        428,
+                        640
+                    ]
+                },
+                "area": 17038,
+                "iscrowd": false,
+                "visible_mask": {
+                    "counts": "jld31Y=5K3H7XOi0N2O1N2N1O2N2O0O2N1O101N1O101O0O101O10O2O000O10001N10O00O1O2N12N2N2N2O0`M_NSIa1h6iNQIZ1i6oNRIS1h6WORIj0iNPNg7Z1\\Ih0lNoMf7]1YIh0nNmMg7_1WIR1f6SOVIo0h6VOSIl0k6@hHc0V7k2N2N1O1O2O0000000O100000001O0O1000000000000000000000000001O001O1O001O1O001O1O1O1N3N1hJ]He4d7TKdH1E`4]8_KcG_4_8`KcG]4`8bK`G[4c8dK^GZ4d8fK\\GX4f8gK\\GV4f8jKZGT4i8jKXGS4k8mKUGQ4V9L3N001N101N101O3L3N3L3N44LK4M3L5L3L4L3N3L5L`0_O;F2M2O2M11O2N2N5J1000bN[DU1e;kN[DT1f;kN\\DT1d;kN^DT1b;lN^DT1b;kN`DT1`;lN`DT1`;kNaDU1`;jN`DV1a;hNaDV1k;O1O1O1O1O1O1O2N3K4K5E]CHg<2gad2",
+                    "size": [
+                        428,
+                        640
+                    ]
+                },
+                "image_id": 484441,
+                "invisible_mask": {
+                    "counts": "ZZe31\\=4K4M3M4L3MO01000O010O00001N10001N10001O1N101O1N1O2N2O0O2NW[31idL3N2N3L01O2MoZS4",
+                    "size": [
+                        428,
+                        640
+                    ]
+                },
+                "bbox": [
+                    279.0,
+                    152.0,
+                    158.0,
+                    196.0
+                ],
+                "occlude_rate": 0.02470947294138341,
+                "category_id": 1,
+                "id": 475861,
+                "category_name": "person",
+                "supercategory": "person"
+            },
+            {
+                "segmentation": {
+                    "counts": "nUe1=o<1O2M2O2YJ]OaNd0\\1^OdNd0Y1]OgNd0W1]OiNe0S1]OlNe0R1\\OnNf0o0[OQOe0n0]OQOc0n0^OROc0m0]OSOc0l0^OVOa0h0@YO?f0B[O=e0C\\O=b0D_O;`0FA:>FC9<HD9:HG87II76JJ74JL71KO50L14MMCWOSKm0X5MEXOQKk0X5OFXOQKj0W5OHYOoJi0W5OIZOoJg0V51JZOoJf0U51LYOoJg0T50LZOPKh0R5NNZOPKj0o4MM]OTKg0n4LCH_K>l4JBKaK=j4JDJbK<h4LEIcK<f4LFIdK<c4MHHdK=a4LKIcK<`4LLJcK:_4NNJaK8_400Z1OfN2Z1LhN3Y1KiN5W1JjN6V1HkN9U1EmN:T1DmN=S1_OPOb0P1WOUOk0k0ROWOn0j0oNWOS1j0jNWOW1n0aNSOa1Q1YNoNh1X1oMjNR2\\1fMdN\\2a1\\MaNe2`1WMbNj2`1QMaNQ3a1jLaNW3`1eLbN\\3_1`LcNa3^1XK[L:Y2_4\\1mJkL;k1i4X2SKlMn4S2jJUNX5n41O2N1O2M3N2M2N3N3L3N3L3N2M5K5K4L2N2M2O2O02O001N2O1O00100O001O1O1O001000O10000O10002M3N2iMcIZM_6b2gIYM]6b2iIZMY6a2mI\\MV6^2nI`MV6Z2mIfMX6R2kImM`6f1cIZNg6X1\\IhNo6k0TIUOa73bHMb7LaH3b7GaH:b7@aHc0S:4L3L01O1O1O00100O1O1O1O001O100O1O1O1O1O1O100O001O100O1ORDVOZ;k0bDXO_;g0^D[Od;V1001O000O2O00001O000O2O1O0O2N2O0O2N2N101N1O2O1N1O2N2O0O2N2N101N2N1O2O2MoZS4",
+                    "size": [
+                        428,
+                        640
+                    ]
+                },
+                "area": 21397,
+                "iscrowd": false,
+                "visible_mask": {
+                    "counts": "nUe1=o<1O2M2O2YJ]OaNd0\\1^OdNd0Y1]OgNd0W1]OiNe0S1]OlNe0R1\\OnNf0o0[OQOe0n0]OQOc0n0^OROc0m0]OSOc0l0^OVOa0h0@YO?f0B[O=e0C\\O=b0D_O;`0FA:>FC9<HD9:HG87II76JJ74JL71KO50L14MMCWOSKm0X5MEXOQKk0X5OFXOQKj0W5OHYOoJi0W5OIZOoJg0V51JZOoJf0U51LYOoJg0T50LZOPKh0R5NNZOPKj0o4MM]OTKg0n4LCH_K>l4JBKaK=j4JDJbK<h4LEIcK<f4LFIdK<c4MHHdK=a4LKIcK<`4LLJcK:_4NNJaK8_400Z1OfN2Z1LhN3Y1KiN5W1JjN6V1HkN9U1EmN:T1DmN=S1_OPOb0P1WOUOk0k0ROWOn0j0oNWOS1j0jNWOW1n0aNSOa1Q1YNoNh1X1oMjNR2\\1fMdN\\2a1\\MaNe2`1WMbNj2`1QMaNQ3a1jLaNW3`1eLbN\\3_1`LcNa3^1XK[L:Y2_4\\1mJkL;k1i4X2SKlMn4S2jJUNX5n41O2N1O2M3N2M2N3N3L3N3L3N2M5K5K4L2N2M2O2O02O001N2O1O00100O001O1O1O001000O10000O10002M3N2iMcIZM_6b2gIYM]6b2iIZMY6a2mI\\MV6^2nI`MV6Z2mIfMX6R2kImM`6f1cIZNg6X1\\IhNo6k0TIUOa73bHMb7LaH3b7GaH:b7@aHc0S:4L3L01O1O1O00100O1O1O1O001O100O1O1O1O1O1O100O001O100O1ORDVOZ;k0bDXO_;g0^D[Od;V1001O000O2O00001O000O2O1O0O2N2O0O2N2N101N1O2O1N1O2N2O0O2N2N101N2N1O2O2MoZS4",
+                    "size": [
+                        428,
+                        640
+                    ]
+                },
+                "image_id": 484441,
+                "bbox": [
+                    127.0,
+                    66.0,
+                    198.0,
+                    288.0
+                ],
+                "occlude_rate": 0,
+                "category_id": 1,
+                "id": 479062,
+                "category_name": "person",
+                "supercategory": "person"
+            },
+            {
+                "segmentation": {
+                    "counts": "[\\Z6g0e<2M3M4L3N2M3oGVO[3m0aL\\OW3g0eL\\OZ3f0bL]O\\3f0`L]O^3f0hI`Ne1m0a4f0cIeNg1h0d4R1SI\\NU2e0g4g1UK[Nj4h1RK[Nl4h1PK[Nn4h1oJZNP5h1lJ[NR5g1lJ[NEZNT4^3TLZNFYNU4_3RL[NFXNX4_3oK[NGWNZ4`3lK[NGXN\\4^3jK]NIUN]4`3gK]NJTN_4a3dK]NLSN_4f6_K[Ia4f6]K[Ic4f6\\KZId4h6YKYIg4h6WKYIi4h6VKXIj4i6UKWIk4j6SKWIm4k6QKUIo4l6oJUIQ5l6nJTIR5n6lJRIT5o6jJRIW5a71O1O2N1O1O1O1O1O2N2N3M2N2N2N3M3M3M3M001:E00000001O001O1O1O001O1N101O1O001O1O1O001O1O001O1N2O1UMaIgN`6W1dIfN]6Y1eIeN\\6Y1gIeNZ6Y1iIeNZ6X1hIfN\\6U1hIhN[6T1hIjN[6S1hIjN[6R1iIkNY6R1kIlNT6T1oIiNR6U1RJhNo5V1TJhNm5W1UJgNk5X1XJfNi5Y1YJeNh5Y1[JeNf5Y1]JdNd5\\1^JbNc5\\1`JQNTNG]7V2bJPNWNDX7\\2cJmM[NBS7_2kJfMi5X2f201N101N1O2N1O2N101N2N3M2M4M2M3M4L3M4M4D;J5O10O01O001O10O01L9FmW5",
+                    "size": [
+                        428,
+                        640
+                    ]
+                },
+                "area": 22573,
+                "iscrowd": false,
+                "visible_mask": {
+                    "counts": "[\\Z6g0e<2M3M4L3N2M3oGVO[3m0aL\\OW3g0eL\\OZ3f0bL]O\\3f0`L]O^3f0hI`Ne1m0a4f0cIeNg1h0d4R1SI\\NU2e0g4g1UK[Nj4h1RK[Nl4h1PK[Nn4h1oJZNP5h1lJ[NR5g1lJ[NEZNT4^3TLZNFYNU4_3RL[NFXNX4_3oK[NGWNZ4`3lK[NGXN\\4^3jK]NIUN]4`3gK]NJTN_4a3dK]NLSN_4f6_K[Ia4f6]K[Ic4f6\\KZId4h6YKYIg4h6WKYIi4h6VKXIj4i6UKWIk4j6SKWIm4k6QKUIo4l6oJUIQ5l6nJTIR5n6lJRIT5o6jJRIW5a71O1O2N1O1O1O1O1O2N2N3M2N2N2N3M3M3M3M001:E00000001O001O1O1O001O1N101O1O001O1O1O001O1O001O1N2O1UMaIgN`6W1dIfN]6Y1eIeN\\6Y1gIeNZ6Y1iIeNZ6X1hIfN\\6U1hIhN[6T1hIjN[6S1hIjN[6R1iIkNY6R1kIlNT6T1oIiNR6U1RJhNo5V1TJhNm5W1UJgNk5X1XJfNi5Y1YJeNh5Y1[JeNf5Y1]JdNd5\\1^JbNc5\\1`JQNTNG]7V2bJPNWNDX7\\2cJmM[NBS7_2kJfMi5X2f201N101N1O2N1O2N101N2N3M2M4M2M3M4L3M4M4D;J5O10O01O001O10O01L9FmW5",
+                    "size": [
+                        428,
+                        640
+                    ]
+                },
+                "image_id": 484441,
+                "bbox": [
+                    484.0,
+                    75.0,
+                    143.0,
+                    271.0
+                ],
+                "occlude_rate": 0,
+                "category_id": 1,
+                "id": 543576,
+                "category_name": "person",
+                "supercategory": "person"
+            },
+            {
+                "segmentation": {
+                    "counts": "og\\14V=4M4L4K6L4L4L4L4L2N20000O100010O00001O01O0012M:G6I3N2M300M2O1M3K5Ki^`6",
+                    "size": [
+                        428,
+                        640
+                    ]
+                },
+                "area": 1005,
+                "iscrowd": false,
+                "visible_mask": {
+                    "counts": "og\\14V=4M4L4K6L4L4L4L4L2N20000O100010O00001O01O0012M:G6I3N2M3N2J5L4LhYa6",
+                    "size": [
+                        428,
+                        640
+                    ]
+                },
+                "image_id": 484441,
+                "invisible_mask": {
+                    "counts": "m`h12Y=3N3M1OO5Ki^`6",
+                    "size": [
+                        428,
+                        640
+                    ]
+                },
+                "bbox": [
+                    107.0,
+                    21.0,
+                    34.0,
+                    92.0
+                ],
+                "occlude_rate": 0.03482587061211356,
+                "category_id": 39,
+                "id": 629233,
+                "category_name": "baseball bat",
+                "supercategory": "sports"
+            }
+        ]
+    },
+    "COCO_val2014_000000506127": {
+        "image_info": {
+            "license": 1,
+            "file_name": "COCO_val2014_000000506127.jpg",
+            "coco_url": "http://mscoco.org/images/506127",
+            "height": 640,
+            "width": 555,
+            "date_captured": "2013-11-16 21:59:25",
+            "flickr_url": "http://farm8.staticflickr.com/7260/8151273976_082b037103_z.jpg",
+            "id": 506127
+        },
+        "annotations_count": 1,
+        "annotations": [
+            {
+                "segmentation": {
+                    "counts": "i\\P59cc07L3m\\O@`b0d0\\]O^OTb0MQ^Oh0G^OTb0OR^OQ1la0SOP^On0Pb0SOo]OQ1ma0POQ^OV1ja0kNT^OW1ka0`0O2N1N200O100O3N1O1f^OdMn`0f23N1N2N1O2N010N2\\Oe^O`N]a0[1i^ObNXa0[1l^OcNXa0V1m^OhNXa0Q1m^OlNXa0l0Z1B8GlnS5",
+                    "size": [
+                        640,
+                        555
+                    ]
+                },
+                "area": 2161,
+                "iscrowd": false,
+                "visible_mask": {
+                    "counts": "i\\P59cc07L3m\\O@`b0d0\\]O^OTb0MQ^Oh0G^OTb0OR^OQ1la0SOP^On0Pb0SOo]OQ1ma0POQ^OV1ja0kNT^OW1ka0`0O2N1N200O100O3N1O1f^OdMn`0f23N1N2N1O2N010N2\\Oe^O`N]a0[1i^ObNXa0[1l^OcNXa0V1m^OhNXa0Q1m^OlNXa0l0Z1B8GlnS5",
+                    "size": [
+                        640,
+                        555
+                    ]
+                },
+                "image_id": 506127,
+                "bbox": [
+                    256.0,
+                    381.0,
+                    36.0,
+                    98.0
+                ],
+                "occlude_rate": 0,
+                "category_id": 1,
+                "id": 430508,
+                "category_name": "person",
+                "supercategory": "person"
+            }
+        ]
+    },
+    "COCO_val2014_000000034818": {
+        "image_info": {
+            "license": 2,
+            "file_name": "COCO_val2014_000000034818.jpg",
+            "coco_url": "http://mscoco.org/images/34818",
+            "height": 426,
+            "width": 640,
+            "date_captured": "2013-11-20 05:46:38",
+            "flickr_url": "http://farm5.staticflickr.com/4060/4544281184_edfdb741de_z.jpg",
+            "id": 34818
+        },
+        "annotations_count": 2,
+        "annotations": [
+            {
+                "segmentation": {
+                    "counts": "a]f7<g<;G6L4L5L3N2N2M3N2N4M=C4K5L2N3M5K5K8I4K1O010O0001O000lN`F^N`9_1dF`NX9c1kF[NT9e1nFZNQ9e1RGZNn8e1UGYNk8f1WGYNi8f1YGYNg8f1ZGZNg8d1\\GZNe8d1]G[Nd8b0XF2W1ZOb8b0[F1T1[Oc8a0^F0U;MPEMV;GYE1_Y2",
+                    "size": [
+                        426,
+                        640
+                    ]
+                },
+                "area": 2880,
+                "iscrowd": false,
+                "visible_mask": {
+                    "counts": "a]f7<g<;G6L4L5L3N2N2M3N2N4M=C4K5L2N3M5K5K8I4K1O010O0001O000lN`F^N`9_1dF`NX9c1kF[NT9e1nFZNQ9e1RGZNn8e1UGYNk8f1WGYNi8f1YGYNg8f1ZGZNg8d1\\GZNe8d1]G[Nd8b0XF2W1ZOb8b0[F1T1[Oc8a0^F0U;MPEMV;GYE1_Y2",
+                    "size": [
+                        426,
+                        640
+                    ]
+                },
+                "image_id": 34818,
+                "bbox": [
+                    592.0,
+                    115.0,
+                    43.0,
+                    109.0
+                ],
+                "occlude_rate": 0,
+                "category_id": 1,
+                "id": 541553,
+                "category_name": "person",
+                "supercategory": "person"
+            },
+            {
+                "segmentation": {
+                    "counts": "\\5a0h<3N2M2O001N2O1N101N2O001O001N10000000000000000000000000000kD\\Od9d0ZFAc9?[FEc9;[FIc97\\FLb94\\F0b90\\F3c9M\\F4d9L[F6d9J\\F7c9I\\F8d9I[F8d9H[F9e9G[F:d9F\\F:d9F\\F:d9F\\F:d9F\\F;c9E]F;c9E]F;c9E]F;c9E]F;c9E]F;d9D\\F<d9D\\F<d9D]F;c9E]F;c9E]F:d9F\\F:d9F\\F:d9F]F9c9G]F9c9G]F9c9G^F8b9H^F7c9I^F6b9J^F6c9I^F6b9J]F6d9K[F5e9K[F4f9LYF4h9LXF3i9MVF3k9MUF1m9ORF0P:0PFKV:4iEH\\:8dEH\\:;`EF`:;_EEb:;]EEc:;\\EFd:;[EEe:<YEEg:;YEEh:;UEGk:\\10000001O000000001O000000001O00000000000000000000000000000oNQEGo:O\\E0d:KbE4]:MdE2\\:NeE1[:OfE0Z:0fE1Y:OhE0X:0hE0X:0hE0X:0iEOW:1iEOW:0jE0U:1kEOU:1kE5o9KRF7k9ISFXOXOo0e:IPF=o9CQF>n9BQF`0n9@QFa0o9_OQFa0o9_OQFa0n9@QFb0n9^ORFb0n9^ORFb0n9]OSFc0m9]OSFc0m9]OSFc0m9]OSFc0m9]OTFb0l9^OUFa0j9@VF`0j9@WF>j9BVF>j9BXF<h9DYF:h9FZF7g9IZF4h9LYF1i9OYFNg92[FKg95]FFd9:`F@b9`0d10000000000000000000000O100000000000000000000000000O100000000000000000000000O1000O10000000000000000000000000000O100000000000000000000000000O10O10000000000000000000000000O100000000000000000000000O10O10000000000000000000000000000O1000000000000000000000O100000O10000000XE]Oi8c0nFMk83QG7i8IUG<h8DVG?i8AVGa0i8_OVGc0i8]OVGe0i8[OUGh0j8XOUGi0k8VOUGl0j8TOVGl0j8TOUGn0i8SOWGm0i8SOVGo0i8QOWGo0i8QOWGo0i8QOWGP1h8POWGQ1i8oNWGQ1i8oNWGR1h8nNWGS1i8mNWGS1i8mNWGS1i8mNVGT1j8kNWGU1i8kNVGV1j8POPGP1P9YOgFg0Y9[OeFe0[9\\OdFd0\\9\\OdFd0\\9\\OcFe0]9\\ObFc0_9]ObFb0^9^ObFb0^9_OaFa0_9_OaF`0`9B_F=a9D_F:b9H]F7c9J\\F5e9MZF1g90TF`N0^1m93PFdN2V1o9>RF_Oo9a0SF\\On9g0oEXOR:l14L4O100000O100000000O100000000O1000000O100000000O10000000000O2O000O100O10000O100O100O100O1000bNSF_Ol9b0YFYOg9g0\\FVOd9j0]FUOb9l0_FSOa9m0`FRO_9o0bFPO^9o0dFPO\\9P1eFoNZ9R1gFmNY9S1hFlNW9T1jFlNV9T1kFkNU9T1lFlNS9T1mFoNQ9P1nFTOP9k0PGXOm8f0TG^Oj8`0VGCi8;XGHe88[GIe85]GLb83^GO`82`GO_80aG1_8NbG3\\8NdG2\\8MeG4Z8KfG6Y8JhG7W8HjG9U8GkG9T8HlG8T8HlG8T8HlG8S8ImG7S8IlG8T8HlG8S8ImG7S8ImG7S8ImG7R8JnG6R8JnG6R8JmG7R8JnG6R8JoG5P8LPH4P8LPH4P8LPH4o7MQH2P8NPH2P8NPH2P8NPH2o7ORHOo71QHOo71RHMo73QHMn74SHJn76RHJn76SHHn78SHGm79THEl7<UHBl7>VH_Ok7a0VH\\Ol7d0VHYOj7h0XHTOj7l0XHQOi7o0ZHkNi7U1[HdNg7]1S20000000O10000000000O1000000000000O010000000000O01000000000O0100000O10000O01000O100000O010000O1000O0100O10000O010O10000O100O100O10000O100O10O0101N1O100O1O101N1O100O1O100O2N1O1O1O2N1O2N1O2N1O1O2N2N2M3M4J[bQ1",
+                    "size": [
+                        426,
+                        640
+                    ]
+                },
+                "area": 33530,
+                "iscrowd": false,
+                "visible_mask": {
+                    "counts": "\\5a0h<3N2M2O001N2O1N101N2O001O001N10000000000000000000000000000kD\\Od9d0ZFAc9?[FEc9;[FIc97\\FLb94\\F0b90\\F3c9M\\F4d9L[F6d9J\\FLn94QFJR:7mEGU:9jEFX::hEDZ:<fEA]:?cE@^:`0bE^O`:b0`E]Oa:c0_E[Oc:e0]EZOd:f0\\EYOe:g0[EXOf:h0ZEWOh:h0XEXOh:h0XEWOi:i0XEUOi:k0WEUOi:k0WETOj:l0VETOj:l0VESOk:m0VEQOk:o0UEQOk:o0UEPOl:P1UEoNk:Q1UEoNk:Q1g001O0001O00000000000001O0003UDlNZ;U1>0O0VDkN_;V1:1TDiNc;W1]DiNd;W1YDiNi;Z12M3N2M4M2BmCBV<;>M3O2M2O1O1O1O2N1OcPi21]oVM4L4L3M4L4L4L3M4L4L3M001O002N1\\DfNV;\\1iDeNU;\\1jDdNV;^1iDbNV;_1eD`N01Z;`1cDdN2KZ;i1gDWNW;i1kDWNS;l1jDVNT;R2N1O7I8H7I0O100000000O100000000O1000000O100000000O10000000000O2O000O100O10000O100O100O100O1000bNSF_Ol9b0YFYOg9g0\\FVOd9j0]FUOb9l0_FSOa9m0`FRO_9o0bFPO^9o0dFPO\\9P1eFoNZ9R1gFmNY9S1hFlNW9T1jFlNV9T1kFkNU9T1lFlNS9T1mFoNQ9P1nFTOP9k0PGXOm8f0TG^Oj8`0VGCi8;XGHe88[GIe85]GLb83^GO`82`GO_80aG1_8NbG3\\8NdG2\\8MeG4Z8KfG6Y8JhG7W8HjG9U8GkG9T8HlG8T8HlG8T8HlG8S8ImG7S8IlG8T8HlG8S8ImG7S8ImG7S8ImG7R8JnG6R8JnG6R8JmG7R8JnG6R8JoG5P8LPH4P8LPH4P8LPH4o7MQH2P8NPH2P8NPH2P8NPH2o7ORHOo71QHOo71RHMo73QHMn74SHJn76RHJn76SHHn78SHGm79THEl7<UHBl7>VH_Ok7a0VH\\Ol7d0VHYOj7h0XHTOj7l0XHQOi7o0ZHkNi7U1[HdNg7]1S20000000O10000000000O1000000000000O010000000000O01000000000O0100000O10000O01000O100000O010000O1000O0100O10000O010O10000O100O100O10000O100O10O0101N1O100O1O101N1O100O1O100O2N1O1O1O2N1O2N1O2N1O1O2N2N2M3M4J[bQ1",
+                    "size": [
+                        426,
+                        640
+                    ]
+                },
+                "image_id": 34818,
+                "invisible_mask": {
+                    "counts": "iQ`0;l<3N3M2N3L3O1N2O2M2O1O1O1O100O1O100O010O1O100O1000O01001OO0100O001O001N1O2K4L5000O10000O10000N2N2M3N2M3N2BmNbDV1[;>M3O1N2O1O1O1O1O1O1O10000000000000000000000000oNQEGo:O\\E0d:KbE4]:MdE2\\:NeE1[:OfE0Z:0fE1Y:OhE0X:0hE0X:0hE0X:0iEOW:1iEOW:0jE0U:1kEOU:1kE5o9KRF7k9ISFXOXOo0e:IPF=o9CQF>n9BQF`0n9@QFa0o9_OQFa0o9_OQFa0n9@QFb0n9^ORFb0n9^ORFb0n9]OSFc0m9]OSFc0m9]OSFc0m9]OSFc0m9]OTFb0l9^OUFa0j9@VF`0j9@WF>j9BVF>j9BXF<h9DYF:h9FZF7g9IZF4h9LYF1i9OYFNg92[FKg95]FFd9:`F@b9`0d10000000000000000000000O100000000000000000000000000O100000000000000000000000O1000O10000000000000000000000000000O100000000000000000000000000O10O10000000000000000000000000O100000000000000000000000O10O10000000000000000000000000000O1000000000000000000000O100000O10000000XE]Oi8c0nFMk83QG7i8IUG<h8DVG?i8AVGa0i8_OVGc0i8]OVGe0i8[OUGh0j8XOUGi0k8VOUGl0j8TOVGl0j8TOUGn0i8SOWGm0i8SOVGo0i8QOWGo0i8QOWGo0i8QOWGP1h8POWGQ1i8oNWGQ1i8oNWGR1h8nNWGS1i8mNWGS1i8mNWGS1k8kNTGV1P9eNQG[1S9aNlF`1W9cNcF]1a9hNVFX1n9fNPFZ1T:cNkE]1X:`NhE`1\\:\\NcEe1a:XN^Eg1T;O00000O2O2M3N0O2N2N2N3M3M3M3J5K;H9Hglj3",
+                    "size": [
+                        426,
+                        640
+                    ]
+                },
+                "bbox": [
+                    0.0,
+                    119.0,
+                    559.0,
+                    156.0
+                ],
+                "occlude_rate": 0.3603340292168108,
+                "category_id": 41,
+                "id": 640332,
+                "category_name": "skateboard",
+                "supercategory": "sports"
+            }
+        ]
+    },
+    "COCO_val2014_000000034193": {
+        "image_info": {
+            "license": 3,
+            "file_name": "COCO_val2014_000000034193.jpg",
+            "coco_url": "http://mscoco.org/images/34193",
+            "height": 612,
+            "width": 612,
+            "date_captured": "2013-11-18 14:11:23",
+            "flickr_url": "http://farm8.staticflickr.com/7218/7177863333_3a29a2aae7_z.jpg",
+            "id": 34193
+        },
+        "annotations_count": 2,
+        "annotations": [
+            {
+                "segmentation": {
+                    "counts": "]YU17eb0>C=D:G8G:F7K6J5L5UBZNR:i1fEeNQ:_1lClMi0o0T;X1kCVNe0k0\\;R5M4L4L3M4L4L3M4M3L4L5K5L3L5L3L5L2M4K4L5C<D<F:I7WO]EiHi:R7\\EgHk:V7XEeHm:X7TEfHo:X7`0N3N1N2O1N2O1N2O0O2O1O1O000000000001O1O1O2N2N0000O100000O100O2N1O1O1N2003M3M001O0010O00000000000O1000000O01O1O10O00100O1O1N2N2N2M4L3L5J6L4M4XEVHP:b8M>@7J5J7I6I7I`0@6I6G9H9H7J6gMPDXMV<d2oCUMV<g2PDQMV<n2oCfLY<X3nC[L[<e3b11OO1O1O2M2M4L4K5Nl@XLm>g3QAZLR?k33L3N2L5L7H9F9H9E9H9H8H8D<CPj[7",
+                    "size": [
+                        612,
+                        612
+                    ]
+                },
+                "area": 43568,
+                "iscrowd": false,
+                "visible_mask": {
+                    "counts": "]YU17eb0>C=D:G8G:F7K6J5L5UBYNS:j1eE^NX:f1eClMi0c0`;d1_CVNe0<k;o4000001O001O0010O01O2N2O1N2O1N2O0OAkCRJR<P6nCgI3Ol;\\6RDcI8L\\;k6\\DYI9LP;U7hDPIZ;X7fDiHT;\\7mDeHZ:JSFe7DaHU:OPFe7L[HS:3lEe72VHR:6jEf75RHQ:]8oEbGQ:_8:0O100O100O2O1N10O100000000000001O1O1O2O1OO1O0O100000001O01O01O001OO1000000000001OfE^GR:b8lEbGR:`8jEcGU:g8O001O00001O001N1O0010O00100O100O100O101N101NQFVGg9h8ZFYGf9f8YF\\Gh96YFg70TH\\:j7cEXHi:Z7WEhHl:T7TEmHn:o6RERIR;j6mDXIU;d6kD]IX;`6fDcIe;P6[DQJg;m5XDTJi;j5VDXJk;a61N1L4gMPDXMV<d2oCUMV<g2PDQMV<n2oCfLY<X3nC[L[<e3b11OO1O1O2M2M4L4K5Nl@XLm>g3QAZLR?k33L3N2L5L7H9F9H9E9H9H8H8D<CPj[7",
+                    "size": [
+                        612,
+                        612
+                    ]
+                },
+                "image_id": 34193,
+                "invisible_mask": {
+                    "counts": "YjZ11Tc06I5K3L3M4L4M2M4M3L3N3L4M3N3M3M2N3M2N3L2^OoMn_OS2o?mMh_O3OQ2W`0mMh_O8Ln1Y`0jMk_O9Ln1W`0jMn_Ob2P`0^MQ@c2m?^MT@b2j?_MV@b2h?_MW@c2g?^MW@e2g?\\MW@f2h?ZMW@h2h?<N1O1O1O1O1000O01N2O1O000000000000000001O1O1O000000000O2O0O1O2N1O2M1103M3M001O001OgL]@Q3c?mLa@Q3a?kLb@T3h?O001O0O101O001N10O100O00010O01O0O2N1O2M2N3L3fMa_Ol1c`0UN^_Og1e`0XN]_Oe1d`0\\N]_Oa1e`0^N]_O`1c`0`N__O\\1d`0dN]_OY1d`0gN]_OV1f`0iN\\_OS1f`0mN[_Oo0i`0oNZ_Ol0i`0TOX_Oh0l`0WOU_Od0o`0[OS_O=oa0H7J`Vn7",
+                    "size": [
+                        612,
+                        612
+                    ]
+                },
+                "bbox": [
+                    62.0,
+                    105.0,
+                    155.0,
+                    395.0
+                ],
+                "occlude_rate": 0.22011568122888092,
+                "category_id": 23,
+                "id": 587517,
+                "category_name": "bear",
+                "supercategory": "animal"
+            },
+            {
+                "segmentation": {
+                    "counts": "jdg4:fb0?A6I6YNmNTA\\1d>UOi@T1Q?c1J5N3L4L4M2M4N1N3N2N1O1O2N1O2N1O1N2O1O100O100OVOcAoL\\>P3fAPMZ>n2iAQMV>o2lA]LI=[>S3XBjLg=T3^BiLb=U3cBiL]=U3fBjLY=T3lBiLU=U3]10001N101O010O000100O100O10O01O100O100O2O0O2O001N101O1N101N101O1N102N1N3N1O2M2O2N1O2N2N2N3M2N2N5J6QBWKY=[5O1O001O001O00001O001O001O0000001O00010O00000010O01O100O1O0001O01O0001O0000001O000000O1000000O1000000O100O1O100O100O1OoN[CeKe<R4iCiKV<T4oCkKP<V4QDhKP<W4RDhKn;W4UDgKk;V4YDiKg;U4[DkKe;T4]DkKc;S4`DkK`;T4cDkK];S4fDkK[;T4gDkKY;S4m1N2N3N1N2O1O1O100O1012M2N3M100O100O1O010O10O0102M9H:E5L1O001N2O1O001O1N101O1O001O0O2O1O3M6J5K00001N1000O10O0100O100O100O001O100O1O1O1UMeBK\\=2mBHS=5nClNS<e0mDiNT;V1oDgNR;W1PEhNQ;W1PEhNQ;W1PEhNP;W1SEgNn:W1UEgNl:X1TEhNl:W1VEhNk:W1VEhNj:V1YEiNg:V1[EhNf:V1]EiNc:V1`EhN`:V1cEiN^:U1eEhN\\:W1gEgNZ:V1l3N2M3M4ZOR^OOkTP2",
+                    "size": [
+                        612,
+                        612
+                    ]
+                },
+                "area": 35859,
+                "iscrowd": false,
+                "visible_mask": {
+                    "counts": "jdg4:fb0;E4K5ZNTOm@S1m>^O`@j0[?b1K5N2M3M4M2M3O1N2O1O1O1O1O1O0k@WLP?j3PAVLo>k3QAULm>l351n@SL16_>g3aASLO:]>c3dASLO:\\>d3eARLO:\\>c3eATLN:\\>^3cAYL3ON:[>]3fAYL20M:[>[3iAZLO1M:Z>[3RB[LC;[>W3YBiLf=U3^BiLb=U3cBiL]=U3fBjLY=T3lBiLU=U3]10001N101O010O000100O100O10O01O100O100O2O0O2O001N101O1N101N101O1N102N1N3N1O2M2O2N1O2N2N2N3M2N2N5J6QBWKY=[5O1O001O001O00001O001O001O0000001O00010O00000010O01O100O1O0001O01O0001O0000001O000000O1000000O1000000O100O1O100O100O1OoN[CeKe<R4iCiKV<T4oCkKP<V4QDhKP<W4RDhKn;W4UDgKk;V4YDiKg;U4[DkKe;T4]DkKc;S4`DkK`;T4cDkK];S4fDkK[;T4gDkKY;S4m1N2N3N1N2O1O1O100O1012M2N3M100O100O1O010O10O0102M9H:E5L1O001N2O1O001O1N101O1O001O0O2O1O3M6J5K00001N1000O10O0100O100O100O001O100O1O1O1UMeBK\\=2mBHS=5nClNS<e0mDiNT;V1oDgNR;W1PEhNQ;W1PEhNQ;W1PEhNP;W1SEgNn:W1UEgNl:X1TEhNl:W1VEhNk:W1VEhNj:V1YEiNg:V1[EhNf:V1]EiNc:V1`EhN`:V1cEiN^:U1eEhN\\:W1gEgNZ:V1l3N2M3M4ZOR^OOkTP2",
+                    "size": [
+                        612,
+                        612
+                    ]
+                },
+                "image_id": 34193,
+                "invisible_mask": {
+                    "counts": "_Xh44Pc02N1O2N1O1O001O100O001O001O1O00001O0OC_]O:`b0F`]O:`b0F`]O:_b060@a]O16NXb02b]OOib01W]OOib01W]OOhb01Y]ONhb02X]ONgb03Y]OMgb03Y]OMgb01[]ONob0OhhQ6",
+                    "size": [
+                        612,
+                        612
+                    ]
+                },
+                "bbox": [
+                    253.0,
+                    311.0,
+                    252.0,
+                    222.0
+                ],
+                "occlude_rate": 0.010820156724648759,
+                "category_id": 23,
+                "id": 587685,
+                "category_name": "bear",
+                "supercategory": "animal"
+            }
+        ]
+    },
+    "COCO_val2014_000000238866": {
+        "image_info": {
+            "license": 4,
+            "file_name": "COCO_val2014_000000238866.jpg",
+            "coco_url": "http://mscoco.org/images/238866",
+            "height": 439,
+            "width": 640,
+            "date_captured": "2013-11-20 14:40:43",
+            "flickr_url": "http://farm8.staticflickr.com/7013/6610035555_f0429c52e9_z.jpg",
+            "id": 238866
+        },
+        "annotations_count": 12,
+        "annotations": [
+            {
+                "segmentation": {
+                    "counts": "Yef3i0h<7J9H6J6L3M4M3L3M3N1N3N2M3M3N2O1N2N101N2N2N2O1N2O1O0O2O1O00001N10001O000O2O0000001N10001O00001N10001O0000000001O01O000000000001O0000001O00001O00000O2O00001O00001O0O2O001O001O0O1O2N101N1O2O1N2N101N2N2N101N2N101N2N2O0O3M3N2K4L5L4K5L3M4K7G:FdXX3",
+                    "size": [
+                        439,
+                        640
+                    ]
+                },
+                "area": 10905,
+                "iscrowd": false,
+                "visible_mask": {
+                    "counts": "Yef3i0h<7J9H6J4N2N2O1N2N101N2O1N2N2O100O1O101N1O1O100O101O0O100000001N100000001N10001O1O1N101O1O1O1O0O2O1O1O002N1O1O100O1O1O1O1O2N1O100O2N1O2OO00001O00000O2O00001O00001O0O2O001O001O0O1O2N101N1O2O1N2N101N2N2N101N2N101N2N2O0O3M3N2K4L5L4K5L3M4K7_O]CAm<3nXX3",
+                    "size": [
+                        439,
+                        640
+                    ]
+                },
+                "image_id": 238866,
+                "invisible_mask": {
+                    "counts": "U]h32e=1O2N2N1N2O001O1O1O1O1O1O1O010O1O1O1O1O100O001O1O00010O00001O01O01O01O1O10O01O100O1O010O1O10O02N1O1O1O1O100O1O1O2N1O1O1O2N1OVje00cUZO8UXX3",
+                    "size": [
+                        439,
+                        640
+                    ]
+                },
+                "bbox": [
+                    276.0,
+                    301.0,
+                    120.0,
+                    113.0
+                ],
+                "occlude_rate": 0.09646950939051173,
+                "category_id": 60,
+                "id": 1572787,
+                "category_name": "donut",
+                "supercategory": "food"
+            },
+            {
+                "segmentation": {
+                    "counts": "XSm1g0l<6I7L4L4L4L4M2N3L4M2N2O0O2O1N1O2O0O2O0O2N100O2O000O2O000O2O000O100000001O0000000000001O00000000000001O0000000000000000001O0000000O101O00000O2O0000001N10001O0O2N101N1O2N101N1O2O1N1O2M3N3M2N3M2N3M2M3M4L3M4L5HVfX5",
+                    "size": [
+                        439,
+                        640
+                    ]
+                },
+                "area": 7313,
+                "iscrowd": false,
+                "visible_mask": {
+                    "counts": "XSm1;X=4K6M3M2N3M4M2N2M3N2N3N1N2O5J5K6ZDQNZ;V2O2O0O2N100O2O000O2O000O2O000O100000001O0000000000001O00000000O1O101N10000O10000O10000O2O000O100O101O0000001N1000001O000O2O001O001O0O2O001O001O1O0O2M3N3M2N3M2N3M2M3M4L3M4L5HVfX5",
+                    "size": [
+                        439,
+                        640
+                    ]
+                },
+                "image_id": 238866,
+                "invisible_mask": {
+                    "counts": "cSm1<[=2O1O1N2O100O001O1O01O0O104L3L5KfY=K^fB100O10000O10000O10000O10000O100O0100000000O010000000O10O1000O1O100O001O100O1O10`R_5",
+                    "size": [
+                        439,
+                        640
+                    ]
+                },
+                "bbox": [
+                    142.0,
+                    197.0,
+                    104.0,
+                    85.0
+                ],
+                "occlude_rate": 0.06645699438445822,
+                "category_id": 60,
+                "id": 1573530,
+                "category_name": "donut",
+                "supercategory": "food"
+            },
+            {
+                "segmentation": {
+                    "counts": "Z\\j3;X=8J3M4L4K4M3L4M3N2M3N2N2O1N2O1N101N101O0O2O0O2O001N101N2O001O001N1000001O00001O0O101O00001O01O0001O000000000000000001O0000001N10001O000O2O00000O2O0O2M3O02OO1N101O1N101N2O1N2O1N101N2M4M2N2M3L5J6K5J;_OQT]3",
+                    "size": [
+                        439,
+                        640
+                    ]
+                },
+                "area": 6158,
+                "iscrowd": false,
+                "visible_mask": {
+                    "counts": "Z\\j3;X=8J3M4L4K3N2M3N2O1N101O100O100O100O101O0O100O10000O100O10001O000O1000001O00001O0O101O001O00100O001O001O1O001O1O1O1O010O1O1O100O1O100O2NO2O00000O2O0O2M3O02OO1N101O1N101N2O1N2O1N101N2M4WOh0M3N2N3M3M3Mfa]3",
+                    "size": [
+                        439,
+                        640
+                    ]
+                },
+                "image_id": 238866,
+                "invisible_mask": {
+                    "counts": "aal31f=1O1O1O1N2O1O1O1O1O1O001O010O001O001O001O001O1O010O001O0000010O00010O00010O01O010O1O0010O01O1O001O1O1O1O001O1O1O1O1N2O1O1Ooe:d0[YE10O1N2M3N2M4FQT]3",
+                    "size": [
+                        439,
+                        640
+                    ]
+                },
+                "bbox": [
+                    285.0,
+                    173.0,
+                    100.0,
+                    79.0
+                ],
+                "occlude_rate": 0.15492042868546274,
+                "category_id": 60,
+                "id": 1925203,
+                "category_name": "donut",
+                "supercategory": "food"
+            },
+            {
+                "segmentation": {
+                    "counts": "mdU53_==D5J6M2O2N2N2N2M3N2N2N2N2N101N1O1O2N10001O00001O0O10001O00000O2O0000001O000O101O0000001O000000000001O00001O00001O001O00010O000O2O001O001O0O101O001O001O0O2O0O101N2O1O1N2O1N2M3M2N3M4L5K5J6JooS2",
+                    "size": [
+                        439,
+                        640
+                    ]
+                },
+                "area": 4880,
+                "iscrowd": false,
+                "visible_mask": {
+                    "counts": "mdU53_==D5J6M2O2N2N2N2M3N2N2N2N2N101N1O1O1O1000O10000O10O10000000000O0100000000000O100000000000000000000001O00001O00010O010O01O010O0010O010O010O01O2OO001O001O0O2O0O101N2O1O1N2O1N2M3M2N3M4L5F:L4KnoS2",
+                    "size": [
+                        439,
+                        640
+                    ]
+                },
+                "image_id": 238866,
+                "invisible_mask": {
+                    "counts": "b\\]51f=000O2O000O2O0000001O00000O2O0000001O0000001O0000001O0000000000000000000001O001O001O010O001N101O001O001N`o83]PGN1OhoS2",
+                    "size": [
+                        439,
+                        640
+                    ]
+                },
+                "bbox": [
+                    386.0,
+                    141.0,
+                    95.0,
+                    66.0
+                ],
+                "occlude_rate": 0.08381147539266158,
+                "category_id": 60,
+                "id": 1925655,
+                "category_name": "donut",
+                "supercategory": "food"
+            },
+            {
+                "segmentation": {
+                    "counts": "Zf<7_=1N3N1M4L3M5K6I8J5L4L3L3N2N1O2M3N2N2N2N2N1O2O1N2O1N1O2O0O2O0O2N101N1O2O001O001N100000001O000O100000001O000O1000001O000000000010O0000000000000000001O00000000000001O0010O01O00J`EVM_:i2800O2O1N101N101N101N101O1N101N101N2O0O2O1N101N2O1N1O2N2N1O2N3M2N2N2N2N3L3K5L8H7H9G_n]6",
+                    "size": [
+                        439,
+                        640
+                    ]
+                },
+                "area": 9647,
+                "iscrowd": false,
+                "visible_mask": {
+                    "counts": "Zf<7_=1N3N1M4L3M5K6I8J5L4L3L3N2N1O2M3N2N2N2N2N1O2O1N2O1N1O2O0O2O0O2N101N1O2O001O001N100000001O000O100000001O000O1000001O000000000010O0000000000000000001O00000000000001O0010O01O00J`EVM_:i2800O2O1N101N101N101N101O1N101N101N2O0O2O1N101N2O1N1O2N2N1O2N3M2N2N2N2N3L3K5L8H7H9G_n]6",
+                    "size": [
+                        439,
+                        640
+                    ]
+                },
+                "image_id": 238866,
+                "bbox": [
+                    29.0,
+                    223.0,
+                    130.0,
+                    101.0
+                ],
+                "occlude_rate": 0,
+                "category_id": 60,
+                "id": 1925870,
+                "category_name": "donut",
+                "supercategory": "food"
+            },
+            {
+                "segmentation": {
+                    "counts": "hYb49[=6J5K6J4L4M3N2N2M3N2N2N100O2N101N1O2O0O101N101O0O101O0O10001O0000000000001O00000000001O000000010O00000001O01O01O0O101O0O101O0O2O0O2N2N1O2N2N2N1N3N2M3N2M2N4L3M3L9Chml2",
+                    "size": [
+                        439,
+                        640
+                    ]
+                },
+                "area": 4357,
+                "iscrowd": false,
+                "visible_mask": {
+                    "counts": "hYb44`=3M3M3M3M4M2O1O1N2O2N1O100O1O101N1O100O2O0O10001N10000O2O0000001O1O001O1O001O1O1O1O1O2N1O1O2N2O1N2N3M1O01O01OO2N1O1O2N100O2N1O2N101O1O001O1O1N1N3N2M3N2M4L3L4J5M9Gdml2",
+                    "size": [
+                        439,
+                        640
+                    ]
+                },
+                "image_id": 238866,
+                "invisible_mask": {
+                    "counts": "lYb45b=3M2N3M100O1O1O1O100O1O00001O010O001O01O01O0010O0001O01O0001O01O1O001O1O010O1O1O1O1O2O0O1O2N2N2O1N3Mmf10RYN1O001O10O01O1O0010O1O1O1O1Ofn21\\QMOTC0P<0jC3k<0oZm2",
+                    "size": [
+                        439,
+                        640
+                    ]
+                },
+                "bbox": [
+                    341.0,
+                    85.0,
+                    82.0,
+                    68.0
+                ],
+                "occlude_rate": 0.2079412439274865,
+                "category_id": 60,
+                "id": 1925969,
+                "category_name": "donut",
+                "supercategory": "food"
+            },
+            {
+                "segmentation": {
+                    "counts": "Wgl27[=;H6K3M2N2N2N2N2M3O1N2O1N2O0O2O0O2O0O2O0O2O001O0O2O00001O0O2O001O000O10001O000000001O0001O000001O00000001O00000000001O0O10001O00001O00001O00001O00001N101O0O101N101O0O2O1N1O2O1N2N4L5K4L5J6J5K^_\\4",
+                    "size": [
+                        439,
+                        640
+                    ]
+                },
+                "area": 4950,
+                "iscrowd": false,
+                "visible_mask": {
+                    "counts": "Wgl27[=;H6K3M2N2N2N2N2M3O0O010O010O010O100O100O1000O10O100000001N100000000O1000001O0000000000010O001O00001O00010O001O000010O01O1O10O01O10O01O100O00101N0001N101O0O101N101O0O2O1N1O2O1N2N4L5@?F;KR[]4",
+                    "size": [
+                        439,
+                        640
+                    ]
+                },
+                "image_id": 238866,
+                "invisible_mask": {
+                    "counts": "VQQ31e=2O1N2O0O2O001O001O001O0O2O001O000010O01O001O0000000010O00000001O0001O001O01O01O00001O001O00001O001N2O1O001O1O001O1O1O001ORT89^kG60O1O5K^_\\4",
+                    "size": [
+                        439,
+                        640
+                    ]
+                },
+                "bbox": [
+                    216.0,
+                    103.0,
+                    96.0,
+                    65.0
+                ],
+                "occlude_rate": 0.15959595956371797,
+                "category_id": 60,
+                "id": 1926077,
+                "category_name": "donut",
+                "supercategory": "food"
+            },
+            {
+                "segmentation": {
+                    "counts": "Zj`1=n<a0F8H9H7L2M3N2M3M3N2M3N2M3N2M4N1N2O1N2O1N2O1N2O1N101O1N101N100O10000O1000000O10000O1000000O1000000O10000O100000000000000000000O1001O00001O0000001O00001O0000001O00001O00001O001O1O001O1O1O001O1O001O1N2O0O2O1N2O1N101N2O1N1O2N2O2M2N3M2O2M2M4M3L5L3L4UOmCMW<JP1J_a[5",
+                    "size": [
+                        439,
+                        640
+                    ]
+                },
+                "area": 11358,
+                "iscrowd": false,
+                "visible_mask": {
+                    "counts": "Zj`1=n<a0F8H9H7L2M3N2M3M3N2M3N2M3N2M4N1N2O1N2O1N2O1N2O1N101O1N101N100O10000O1000000O10000O1000000O1000000O10000O100000000000000000000O1001O00001O0000001O00001O0000001O00001O00001O001O1O001O1O1O001O1O001O1N2O0O2O1N2O1N101N2GREgMo:V2:O2M3N3L3M4M2M4M2M4M3M4L3M3B`C@d<7c0J_a[5",
+                    "size": [
+                        439,
+                        640
+                    ]
+                },
+                "image_id": 238866,
+                "invisible_mask": {
+                    "counts": "UUo27^=2O0O101N1O100O2O0O0100O100O10Q\\\\5",
+                    "size": [
+                        439,
+                        640
+                    ]
+                },
+                "bbox": [
+                    113.0,
+                    329.0,
+                    126.0,
+                    110.0
+                ],
+                "occlude_rate": 0.01743264659117515,
+                "category_id": 60,
+                "id": 1926221,
+                "category_name": "donut",
+                "supercategory": "food"
+            },
+            {
+                "segmentation": {
+                    "counts": "kmU62a=`0@9G7K4L4M4K2O2N2N2N2N2N2N101O1N2O1N2O1O0O2O1N2O1O0O2O0O101O0O2O001O0O2O001O001O0O2O0000001N100001O01O0001O01O000001O0000001O00000O2O0000001O001N10001N101O0O2O000O2O0O2O1O1N2O1O1N2O1N2O1O1N2N2N2M3N3L3N2N2N2N3M4L3M4L3L5K<DR]l0",
+                    "size": [
+                        439,
+                        640
+                    ]
+                },
+                "area": 7730,
+                "iscrowd": false,
+                "visible_mask": {
+                    "counts": "kmU62a=`0@9G4N3M2O1N3N1O1O1O2N1O1O101O0O101N2O001N2O0O2O1O0O2O1N101O1N101O1O1N3N1O1O1O1O1N2O1O1O2N1N2O1O2O0O1O0001O01O000001O0000001O00000O2O0000001O001N10001N101O0O2O000O2O0O2O1O1N2O1O1N2O1N2O1O1N2N2N2M3N3L3N2N2N2N3M4L3M4L3L5K<DR]l0",
+                    "size": [
+                        439,
+                        640
+                    ]
+                },
+                "image_id": 238866,
+                "invisible_mask": {
+                    "counts": "cWW63e=1N2N3NO01O1O100O1O1O010O1O10000O10O10O10000O0100O00100O010O100O2O0O100O100O100O1O2N100O1O2Nbnf1",
+                    "size": [
+                        439,
+                        640
+                    ]
+                },
+                "bbox": [
+                    461.0,
+                    268.0,
+                    112.0,
+                    92.0
+                ],
+                "occlude_rate": 0.06817593789544943,
+                "category_id": 60,
+                "id": 1926609,
+                "category_name": "donut",
+                "supercategory": "food"
+            },
+            {
+                "segmentation": {
+                    "counts": "[Ti14a=5K4A>N2M3M3N2N1O2N2N101N2N1O2N101N2O0O2O0O2O0O10000O100O1000001O000000000000001O000000001O0000010O00000000001O0001O0000001O0000000O2O0O1O101N101N2O0O2N2O0O2N2O0O2N2N1O2M2O2N2N1O4L3L4K6Ibn`5",
+                    "size": [
+                        439,
+                        640
+                    ]
+                },
+                "area": 4768,
+                "iscrowd": false,
+                "visible_mask": {
+                    "counts": "[Ti14a=5K4A>N2M1O2O001O001O010O1O1O00100O100O010O100O10O10O100O101O00000000000000000000001O000000001O01O0001O00001O000010O0002N100O2N1O1O100O1O1O100O01N2O0O2N2O0O2N2O0O2N2EiCSOX<h0?M2O2N2N1O4L3M3L5M^n`5",
+                    "size": [
+                        439,
+                        640
+                    ]
+                },
+                "image_id": 238866,
+                "invisible_mask": {
+                    "counts": "XYk12e=1N2O0O2O1N101O1O0O2O001O1O0O2O001O000O1000000001O0001O000000000000001O01O000001O01O0001O01O00001O01O01O00002N1O1O2N1O1O1N2O1N2N2OTT55bkJ6M010000000000O0O3L_n`5",
+                    "size": [
+                        439,
+                        640
+                    ]
+                },
+                "bbox": [
+                    133.0,
+                    83.0,
+                    94.0,
+                    65.0
+                ],
+                "occlude_rate": 0.23594798652769547,
+                "category_id": 60,
+                "id": 1926638,
+                "category_name": "donut",
+                "supercategory": "food"
+            },
+            {
+                "segmentation": {
+                    "counts": "Q`b25`=7I3K6J5K5J6M3N3M2N2N2N1O2O0O2N2N101N1O2N101N1O2O0O101N100O2O000O2O0O2O0O101N10001O000000000O100000000001O000000000O10000O2O00000O100O101O0O2O000O2O000O2O001N100O2O001N2O1O0O2N2N1O2N2N2N1O2N3L4L3M4L3L5L;EYgc4",
+                    "size": [
+                        439,
+                        640
+                    ]
+                },
+                "area": 6317,
+                "iscrowd": false,
+                "visible_mask": {
+                    "counts": "Q`b24a=3M2L4L4L4K5N2O1O1O1O2N1O100O1O1O2O0O1O1O2O0O1O101N100O2O0O2O001N101N101N101N2O001O1O2N1O2N1N3N1O1O2N1O2O1N00000000O10000O2O00000O100O101O0O2O000O2O000O2O001N100O2O001N2O1O0O2N2N1O2N2N2J5L5M4L4L3L5L3L5L;FXgc4",
+                    "size": [
+                        439,
+                        640
+                    ]
+                },
+                "image_id": 238866,
+                "invisible_mask": {
+                    "counts": "U`b21g=4K1O2N1O1O1O1O2N1O100O001O001O10O01O0010O01O0010O00010O0010O01O010O010O00100O00100O2N1O2N1O2N1O1O2N1O2NUTa02ek^O3O1O000O100O0101OWgc4",
+                    "size": [
+                        439,
+                        640
+                    ]
+                },
+                "bbox": [
+                    192.0,
+                    148.0,
+                    103.0,
+                    80.0
+                ],
+                "occlude_rate": 0.13914832988140757,
+                "category_id": 60,
+                "id": 1926678,
+                "category_name": "donut",
+                "supercategory": "food"
+            },
+            {
+                "segmentation": {
+                    "counts": "^oc44\\=8L4M3M3M3M4M2N1O1O2O0O1O101N1O101N1O1O101N1O101N1000000O2O00000O2O0000010O000001O0001O01O0000001O00001O0010OO2O0O2O0O2O1N101N2O1N2O1N2N2N2N2N1O3M3L4I\\jm2",
+                    "size": [
+                        439,
+                        640
+                    ]
+                },
+                "area": 3125,
+                "iscrowd": false,
+                "visible_mask": {
+                    "counts": "^oc44\\=8L4M3M3M3M4M2N1O1O2OO01O01O01O010O001O10O01O10O01000000O1000000O10000001O0000001O0000010O00000010O00010O01O010O0010O0100O01000O10000N2N2N2N2N1D>J6L4MXjm2",
+                    "size": [
+                        439,
+                        640
+                    ]
+                },
+                "image_id": 238866,
+                "invisible_mask": {
+                    "counts": "gfh41f=0O1O2O0O101N10000O2O000O2O000000001O0000001O0000001O000000000010O000000001O00001O00010N100O2O0O2O0O2O1N101Nka2:h]M3O01L[jm2",
+                    "size": [
+                        439,
+                        640
+                    ]
+                },
+                "bbox": [
+                    345.0,
+                    45.0,
+                    76.0,
+                    56.0
+                ],
+                "occlude_rate": 0.1900799999391744,
+                "category_id": 60,
+                "id": 2118642,
+                "category_name": "donut",
+                "supercategory": "food"
+            }
+        ]
+    },
+    "COCO_val2014_000000057238": {
+        "image_info": {
+            "license": 3,
+            "file_name": "COCO_val2014_000000057238.jpg",
+            "coco_url": "http://mscoco.org/images/57238",
+            "height": 500,
+            "width": 375,
+            "date_captured": "2013-11-24 11:16:51",
+            "flickr_url": "http://farm1.staticflickr.com/62/154800481_380c557e80_z.jpg",
+            "id": 57238
+        },
+        "annotations_count": 2,
+        "annotations": [
+            {
+                "segmentation": {
+                    "counts": "m[`02_?9I4M6I;WARO48a=b1mNVNWDk1g;XNXDh1h;XNXDh1h;YNVDh1j;XNVDg1k;ZNcCV2^<6:4SCfMX<R3I2N1O000000E;000000O100000000O100000000O100000000O100000O1000O100000000O100000O10O1000L4M3K4K6G9K5M3O010001O005J10O1000YNhDTOV;;mEWOo9`0`F]O^9:oFCo8;XG@i8<^G@b88jGDV85UHFm73]HI\\`n3",
+                    "size": [
+                        500,
+                        375
+                    ]
+                },
+                "area": 7693,
+                "iscrowd": false,
+                "visible_mask": {
+                    "counts": "m[`02_?9I4M6I;WARO43f=g1H10000O10OF:[OjMnCl1\\<UNbCP2A[NX<EWDc2g;^MXDc2g;^MWDd2h;\\MXDe2g;\\MWDe2i;\\MVDe2i;\\MUD^2R<dMkC]2U<dMiC]2W<`00O100000000O100000000O100000000O100000O1000O100000000O100000O10O1000L4M3K4K6G9K5M3O010001O005J10O1000YNhDTOV;;mEWOo9`0`F]O^9:oFCo8;XG@i8<^G@b88jGDV85UHFm73]HI\\`n3",
+                    "size": [
+                        500,
+                        375
+                    ]
+                },
+                "image_id": 57238,
+                "invisible_mask": {
+                    "counts": "m[b05]l0MSC3O001O001k@Of>?1N10dCBc9=^FDa9:aFF^9:cFE^99cFG^98cFG^97R3M2NRak4",
+                    "size": [
+                        500,
+                        375
+                    ]
+                },
+                "bbox": [
+                    33.0,
+                    187.0,
+                    83.0,
+                    152.0
+                ],
+                "occlude_rate": 0.030417262442425937,
+                "category_id": 62,
+                "id": 101423,
+                "category_name": "chair",
+                "supercategory": "furniture"
+            },
+            {
+                "segmentation": {
+                    "counts": "_d`2;U?b3bL<ZDkLU:i5`N_1bN_1aN[1eN1O1O1O1O1O001O1O1O1O4L1O1O1O1O001O1O1O1O1O1O1N2O1O1O1O1O1O001O1N2O1O1O1O1O1O1O1N2O1O1O1O001O1O1N2O1O1O1O1O1O1O1N2O1O1O001O1O1O1O1N2O1O1O1O1O1O1O1N101O00000000000O100000000000000O100000000000000O100000000000000M3O100O10000000000000000000000001O2N00000000003M000000000000000000001O0000000000000000000000001O00000000000000000000001O00000000000000000000001O0000000000000000000000001O00000000000000000000001O00",
+                    "size": [
+                        500,
+                        375
+                    ]
+                },
+                "area": 87427,
+                "iscrowd": false,
+                "visible_mask": {
+                    "counts": "_d`2;U?b3bL<ZDkLU:i5`N_1bN_1aN[1eN1O1O1O1O1O001O1O1O1O4L1O1O1O1O001O1O1O1O1O1O1N2O1O1O1O1O1O001O1N2O1O1O1O1O1O1O1N2O1O1O1O001O1O1N2O1O1O1O1O1O1O1N2O1O1O001O1O1O1O1N2O1O1O1O1O1O1O1N101O00000000000O100000000000000O100000000000000O100000000000000M3O100O10000000000000000000000001O2N00000000003M000000000000000000001O00000000000000000ITNfBl1j<dNVC\\1Z<UOeCk0]7XNhL]1jK<]7YNWLk1\\LL\\7[NgKZ2lL[O\\7\\NXKj2[MjN]7]NhJX3kM[N]7]NXJh5h5YJgIW6X6jIXIf6h6[IhHT7X7d0O10001O0O10000O1000000O10000O2O00000O10000O1000000O10001N1000000O10000O1000000O2O00mM",
+                    "size": [
+                        500,
+                        375
+                    ]
+                },
+                "image_id": 57238,
+                "invisible_mask": {
+                    "counts": "]gl42R?`0@a0QKSOfJ]1Y5eNUJk1j5WNeIZ2Y6gMWIj2h6WMhHX3X7hLXHi3g7XLhGX4W8iKYGg4g8ZKiFU5W9d0O1000000O10000O1000000O10000O1000000O10000O1000000O10000O1000000O10000O1000000O10000",
+                    "size": [
+                        500,
+                        375
+                    ]
+                },
+                "bbox": [
+                    165.0,
+                    55.0,
+                    210.0,
+                    445.0
+                ],
+                "occlude_rate": 0.11520468505021099,
+                "category_id": 82,
+                "id": 332209,
+                "category_name": "refrigerator",
+                "supercategory": "appliance"
+            }
+        ]
+    },
+    "COCO_val2014_000000013882": {
+        "image_info": {
+            "license": 3,
+            "file_name": "COCO_val2014_000000013882.jpg",
+            "coco_url": "http://mscoco.org/images/13882",
+            "height": 640,
+            "width": 426,
+            "date_captured": "2013-11-15 14:04:25",
+            "flickr_url": "http://farm5.staticflickr.com/4061/4512343448_6a630526d6_z.jpg",
+            "id": 13882
+        },
+        "annotations_count": 2,
+        "annotations": [
+            {
+                "segmentation": {
+                    "counts": "cfm01gc09G9M3N2O1O0O2O1N2O1N2M3N2N3M3M2M4M3M3L3M3M2O2M3M3FiMi^OX2Va0hMk^OX2Ta0iMk^OW2Ua0iMj^OY2Ua0hMi^OY2Wa0800M]Mh^Od2Wa030001N10000O100O101K4J6O100O100O101N100O100O100O2O0O100O2N1O1O1O101N1O1O1O2N2N2N3N1N2N2N3M2N2N2eNdKoB]4o<oKfBR4Y=YL\\Bh3c=]LUBg3i=Z1N1O1O1O1O101N1O1O1O100K6J5M3M3M3M3M201O0O2O1O0O2O001N101N2O0O2O0O100O2O0000001N100O1O00M4L50O1000O0100O1O100O100O010O100O100O1O100O100O1000001O000O1O100O1O1O10002O2M2ON100O000M4N12O00000O10001O000001N2O00O0100O01000O2O1O000O100000001O2M3N001O001N10001O001N0100000O2O001O1OO2BiHPDY7n;?N1O2M3N1O2M101O1OjJeDh1Z;XNhDg1W;YNiDg1W;YNjDg1U;TNPERMDO0]4[;bNZEoLBZ4S;fNmEV1S:hNXFn0i9POgFb0Y9\\OTG9l8FXG7g8H[G8e8F]G:f8A\\G>i8\\OYGd0k8UOWGl0R9iNPGW1P9gNRGY1o8cNTG\\1m8bNTG_1m8]NVGb1m8ZNTGf1Q9QNTGn1o8lMTGT2o8hMRGX2Q9dMQG^O[Li2f<gMSGY2o8bMTG_2n8[MUGe2m8VMVGj2Q=O1O2N1O2N100O1O2N0000O10eNf^O0Za00j^OLVa03l^OLSa05n^OJRa05o^OKPa06P_OJPa05P_OLo`05Q_OLm`04T_OLl`04T_OLk`04V_OLj`04V_OLi`04X_OLg`05Y_OKg`05Y_OKf`05Z_OLe`05[_OKe`04\\_OLc`05\\_OMc`02a_OK_`04b_OL]`04c_ON\\`01e_OOZ`02e_OO[`00g_O0X`0Oj_O0U`00m_O0S`0No_O1Q`0NQ@1o?NR@3n?KS@5m?JU@5k?KU@6k?HV@8j?GW@9j?EW@;i?DW@=k?@V@`0k?]OX@b0j?ZOY@e0n?ROU@m0`a0O00100O00000O100O1O1O100O3M5L4K6J5KQTk0",
+                    "size": [
+                        640,
+                        426
+                    ]
+                },
+                "area": 53411,
+                "iscrowd": false,
+                "visible_mask": {
+                    "counts": "cfm01gc09G9M3N2O1O0O2O1N2O1N2M3N2N3M3M2M4M3M3L3M3M2O2M3M3FiMi^OX2Va0hMk^OX2Ta0iMk^OW2Ua0iMj^OY2Ua0hMi^OY2Wa0800M]Mh^Od2Wa030001N10000O100O101K4J6O100O100O101N100O100O100O2O0O100O2N1O1O1O101N1O1O1O2N2N2N3N1N2N2N3M2N2N2eNdKoB]4o<oKfBR4Y=YL\\Bh3c=]LUBg3i=Z1N1O1O1O1O101N1O1O1O100K6J5M3M3M3M3M201O0O2O1O0O2O001N101N2O0O2O0O100O2O0000001N100O1O00M4L50O1000O0100O1O100O100O010O100O100O1O100O100O1000001O000O1O100O1O1O10002O2M2ON100O000M4N12O00000O10001O000001N2O00O0100O01000O2O1O000O100000001O2M3N001O001N10001O001N0100000O2O001O1OO2BiHPDY7n;?N1O2M3N1O2M101O1OjJeDh1Z;XNhDg1W;YNiDg1W;YNjDg1U;TNPERMDO0]4[;bNZEoLBZ4S;fNmEV1S:hNXFn0i9POgFb0Y9\\OTG9l8FXG7g8H[G8e8F]G:f8A\\G>i8\\OYGd0k8UOWGl0R9iNPGW1P9gNRGY1o8cNTG\\1m8bNTG_1m8]NVGb1m8ZNTGf1Q9QNTGn1o8lMTGT2o8hMRGX2Q9dMQG^O[Li2f<gMSGY2o8bMTG_2n8[MUGe2m8VMVGj2Q=O1O2N1O2N100O1O2N0000O10eNf^O0Za00j^OLVa03l^OLSa05n^OJRa05o^OKPa06P_OJPa05P_OLo`05Q_OLm`04T_OLl`04T_OLk`04V_OLj`04V_OLi`04X_OLg`05Y_OKg`05Y_OKf`05Z_OLe`05[_OKe`04\\_OLc`05\\_OMc`02a_OK_`04b_OL]`04c_ON\\`01e_OOZ`02e_OO[`00g_O0X`0Oj_O0U`00m_O0S`0No_O1Q`0NQ@1o?NR@3n?KS@5m?JU@5k?KU@6k?HV@8j?GW@9j?EW@;i?DW@=k?@V@`0k?]OX@b0j?ZOY@e0n?ROU@m0`a0O0O2J6J5K5L4KhPR1",
+                    "size": [
+                        640,
+                        426
+                    ]
+                },
+                "image_id": 13882,
+                "invisible_mask": {
+                    "counts": "Z`T71jc06J5K5L4K4L50O1O1O100O3M5L4K6J5KQTk0",
+                    "size": [
+                        640,
+                        426
+                    ]
+                },
+                "bbox": [
+                    47.0,
+                    101.0,
+                    335.0,
+                    295.0
+                ],
+                "occlude_rate": 0.005935107000319502,
+                "category_id": 18,
+                "id": 3003,
+                "category_name": "dog",
+                "supercategory": "animal"
+            },
+            {
+                "segmentation": {
+                    "counts": "]3^6b=0000000000000000000000000000000000000000000000O1000000000000O1000000000000O10001O000000001N100000001O000O101O00001O000O101O0O101O0O2O000O2O0O101dMnAhNR>W1PBgNR>W1PBhNP>W1RBhNo=V1RBiNo=V1SBiNn=U1TBiNm=V1UBiNl=U1UBkNk=T1WBjNk=S1XBlNh=S1YBmNh=Q1ZBmNi=P1YBoNi=m0ZBROh=k0YBTOj=i0XBUOk=h0WBVOl=f0WBWOm=f0TBYOn=e0TBXOP>e0RBYOP>d0SBZOP>a0SB]OP>?TB_Oo=<WB_Om=<YB@o=7UBER>3TBIR>MVBOP>GXB4m`0M4K`gW6",
+                    "size": [
+                        640,
+                        426
+                    ]
+                },
+                "area": 18541,
+                "iscrowd": false,
+                "visible_mask": {
+                    "counts": "]3^6b=0000000000000000000000000000000000000000000000O1000000000000O1000000000000O10001O000000001N100000001O000O101O00001O000O101O0O101O0O2M2N2N3N1N2N3mMeAVNMcN^>V3gAVNKeN^>S3iAWNJeN]>S3kAWNHeN_>R3jAYNHcN_>S3kAYN^>e1dAZN\\>e1fAWN@eNl>R3eAXN^>g1dAXN]>e1fAZNZ>e1gAZN[>d1gA[N[>b1gA]N[>_1hA_N[>^1fAbN\\>[1fAcN]>Z1eAeN]>W1fAdN`>Y1aAaNf>]1\\AaNg>\\1[AcNf>Z1]AdNf>W1]AiNd>S1`AkNc>P1cAmN_>n0gAnNa>i0cAUOb>c0dAYOb>=h2FiRY6",
+                    "size": [
+                        640,
+                        426
+                    ]
+                },
+                "image_id": 13882,
+                "invisible_mask": {
+                    "counts": "aUZ12lc02N101N1O2GHj\\O8Vc0Hk\\O6Vc0Ki\\O5Wc0Kh\\O6Xc0Kf\\O5[c080ONBc\\O?\\c030O10O10O10O10O001OM2L50O2O001N101N101N102N4K4M4K`gW6",
+                    "size": [
+                        640,
+                        426
+                    ]
+                },
+                "bbox": [
+                    0.0,
+                    109.0,
+                    106.0,
+                    206.0
+                ],
+                "occlude_rate": 0.030149398628437008,
+                "category_id": 70,
+                "id": 1095525,
+                "category_name": "toilet",
+                "supercategory": "furniture"
+            }
+        ]
+    },
+    "COCO_val2014_000000078200": {
+        "image_info": {
+            "license": 4,
+            "file_name": "COCO_val2014_000000078200.jpg",
+            "coco_url": "http://mscoco.org/images/78200",
+            "height": 482,
+            "width": 482,
+            "date_captured": "2013-11-24 11:19:06",
+            "flickr_url": "http://farm8.staticflickr.com/7353/9628691327_63872602ed_z.jpg",
+            "id": 78200
+        },
+        "annotations_count": 3,
+        "annotations": [
+            {
+                "segmentation": {
+                    "counts": "Scb1o4U5Q5J6J6J5L5J6J6]LVEe2P;PMXEn2_;M3M3M3N2M3M300000000000000000000000@aM]D_2c;fMXDZ2h;kMSDV2l;`0000000000000000000O1000000000000000000000000000000000001O0000E;eMWDS1R=N101N2N101N2O0O2O1N101N2O1O1O001O1OO1N2N3M200000000O1000001O0O1000001N100000001N1000000O101O000O10001O0O100000001N1000000O2O00000O101O00000O10001O0O1000001N1000000O101O00000O101O000O1000001N100000001N1000000O2O00000O10001O0O1000001O0O1000000O2O00000O101O00000O101O000O1000001N1000000O2O0000000O2O00000O10001O0O1000001O0O1000000O2O00000O101O000O10001O000O1006J2OO000000001O0000000001O0000000000J7I7O1N2N2O1N3hG_Lk4c3PKeLj4_3lHYM9^Of6\\3bH^NKa5:o6GeR`1",
+                    "size": [
+                        482,
+                        482
+                    ]
+                },
+                "area": 109008,
+                "iscrowd": false,
+                "visible_mask": {
+                    "counts": "Scb1o4U5Q5J6J6J5L5J6J6]LVEe2P;PMXEn2_;M3M3M3N2M3M300000000000000000000000@aM]D_2c;fMXDZ2h;kMSDV2l;`00000lMhM^GX2j7fNPHZ1^3hNiM`0dNh0Y3ROPN:fNd0S3YOUN6gNa0m2@ZN1iN?[22iNCkN;Y25jNBlN:Y25hNEnN6Z25fNGPO4Y26eNHRO2Y26]N0ZOJX27UN8CAW28mM`0LXOW28dMi05oNV29eMh05oNV29dMi06nNW28cMj06nNX27bMk06nNZ25`Mm06nN[24_Mn06nN`2OZMS16nNi2FQM\\16nNh3gNRL[26nNl3cNnK_26nNP4_NkKb25POS4ZNhKf25POW4VNkKc2NWOZ7HjHM[;eMWDS1R=N101N2N101N2O0O2O1N101N2O1O1O001O1OO1N2N3M200000000O1000001O0O1000001N100000001N1000000O101O000O10001O0O100000001N1000000O2O00000O101O00000O10001O0O1000001N1000000O101O00000O101O000O1000001N100000001N1000000O2O00000O10001O0O1000001O0O1000000O2O00000O101O00000O101O000O1000001N1000000O2O0000000O2O00000O10001O0O1000001O0O1000000O2O00000O101O000O10001O000O1006J2OO000000001O0000000001O0000000000J7I7O1N2N2O1N3hG_Lk4c3PKeLj4_3lHYM9^Of6\\3bH^NKa5:o6GeR`1",
+                    "size": [
+                        482,
+                        482
+                    ]
+                },
+                "image_id": 78200,
+                "invisible_mask": {
+                    "counts": "lWR2k0_=n0XK2cI`0n5JoI:i5MUJ6c51[J1S5a0jJCR5`0lJBS5?jJEU5;iJGV5:hJHX58`J0_51XJ8g5IPJ`0P6@gIi0X6XOhIh0X6XOgIi0Z6VOfIj0[6UOeIk0]6SOcIm0^6RObIn0c6mN]IS1l6dNTI\\1k7eMUH[2o7aMQH_2S8]MnGb2V8ZMjGf2Z8VMmGc2V;oNYQc4",
+                    "size": [
+                        482,
+                        482
+                    ]
+                },
+                "bbox": [
+                    107.0,
+                    14.0,
+                    272.0,
+                    452.0
+                ],
+                "occlude_rate": 0.05040914428252597,
+                "category_id": 82,
+                "id": 330961,
+                "category_name": "refrigerator",
+                "supercategory": "appliance"
+            },
+            {
+                "segmentation": {
+                    "counts": "lWR2k0_=n0]Ob0H4M3M2M4M2M4M2N2H8G9G9G900O100000000000000001O007Im0oNYQc4",
+                    "size": [
+                        482,
+                        482
+                    ]
+                },
+                "area": 3172,
+                "iscrowd": false,
+                "visible_mask": {
+                    "counts": "lWR2k0_=n0]Ob0H4M3M2M4M2M4M2N2H8G9G9G900O100000000000000001O007Im0oNYQc4",
+                    "size": [
+                        482,
+                        482
+                    ]
+                },
+                "image_id": 78200,
+                "bbox": [
+                    140.0,
+                    264.0,
+                    29.0,
+                    134.0
+                ],
+                "occlude_rate": 0,
+                "category_id": 44,
+                "id": 1484659,
+                "category_name": "bottle",
+                "supercategory": "kitchen"
+            },
+            {
+                "segmentation": {
+                    "counts": "fPS2k1m<:I7I7^Ob0M3O100O100O1O100O1001O1O2N1O5K9Go0QO4L4L4L4LZcc4",
+                    "size": [
+                        482,
+                        482
+                    ]
+                },
+                "area": 2323,
+                "iscrowd": false,
+                "visible_mask": {
+                    "counts": "fPS2k1m<:I7I7^Ob0M3O100O100O1O100O1001O1O2N1O5K9Go0QO4L4L4L4LZcc4",
+                    "size": [
+                        482,
+                        482
+                    ]
+                },
+                "image_id": 78200,
+                "bbox": [
+                    142.0,
+                    136.0,
+                    26.0,
+                    109.0
+                ],
+                "occlude_rate": 0,
+                "category_id": 44,
+                "id": 1488006,
+                "category_name": "bottle",
+                "supercategory": "kitchen"
+            }
+        ]
+    },
+    "COCO_val2014_000000324476": {
+        "image_info": {
+            "license": 1,
+            "file_name": "COCO_val2014_000000324476.jpg",
+            "coco_url": "http://mscoco.org/images/324476",
+            "height": 432,
+            "width": 640,
+            "date_captured": "2013-11-18 22:11:58",
+            "flickr_url": "http://farm1.staticflickr.com/180/365271532_35fa1d4d1d_z.jpg",
+            "id": 324476
+        },
+        "annotations_count": 5,
+        "annotations": [
+            {
+                "segmentation": {
+                    "counts": "b_o02Y=9I4M2M4L3N2N2I7O1O10O1O1O01O0001O2M2O2N1O1N3N1O1O2O000100O001O10O01O1O100O1O1O100O1O1O100O1O0ZEQOk8Q1RGPOn8R1nFPOR9R1kFoNV9R1gFnNZ9T1cFmN]9T1bFlN^9V1_FkNa9X1[FiNe9c1nE^NR:j1\\E`Ne:P2ZE_Mg:`25O1O1G9001O100O1ODnD[NQ;_1WE`Nh:Z1_EfN`:U1fEjNZ:S1kElNT:T1lEmNS:T1mEkNS:U1mElNS:S1nElNR:T1oElNP:T1QFkNo9U1QFkNo9U1QFlNn9T1RFlNn9T1SFkNm9V1QFlNn9T1RFlNo9R1RFnNn9R1RFnNn9R1SFmNm9S1TFlNl9T1VFjNj9V1X1000001OPEmNc9R1^FnNb9R1]FoNc9Q1\\FQOc9n0^FQOc9o0\\FROd9m0[FUOe9k0ZFUOg9k0XFVOh9i0WFYOi9g0VFWOm9i0RFUOQ:j0oEVOR:j0lEVOV:j0hEWOX:i0hEWOY:i0oDSO;4h:X1QEjNP;Z1iDhNW;g12O1N2O1O1O1O1D_DhNb;T1fDgN\\;V1hDfNZ;X1`0O101O0001O2O0O2N101N1OCPD\\Oo;`0VD@h;?[D@a0GU:g0]EC:HY:e0_EB7I[:e0^EC4I^:e0^EB2J`:e0^EELGf:d0`E6a:JfENZ:4iEFX:;jEBW:?iE^OX:c0iE[OX:f0iEoN`:U1l05K22M5L2M01OO2TOgC;\\<@iC>g<M3L4K5LQYY5",
+                    "size": [
+                        432,
+                        640
+                    ]
+                },
+                "area": 6983,
+                "iscrowd": false,
+                "visible_mask": {
+                    "counts": "b_o02Y=9I4M2M4L3N2N2I7O1O10O1O1O01O0001O2M2O2N1O1N3N1O1O2O000100O001O10O01O1O100O1O1O100O1O1O100O1O0ZEQOk8Q1RGPOn8R1nFPOR9R1kFoNV9R1gFnNZ9T1cFmN]9T1bFlN^9V1_FkNa9X1[FiNe9c1nE^NR:j1\\E`Ne:P2ZE_Mg:`25O1O1G9001O100O1ODnD[NQ;_1WE`Nh:Z1_EfN`:U1fEjNZ:S1kElNT:T1lEmNS:4YE;d0@S:3^E:?DS:OcE:;FR:OgE88IP:NjE87Io9NkE5WOJo03o9MmE3WOMm04n9KoE3WONl04m:NWDNm03Z:O[EO94Z:0[EL;4Y:3YEI?4W:7WEEb04V::VEBe03T:>UE_Oh02S:`0TE^Ok00P:e0RE\\OT<h0iCYOV<Q1N200PEmNc9R1^FnNb9R1]FoNc9Q1\\FQOc9n0^FQOc9o0\\FROd9m0[FUOe9k0ZFUOg9k0XFVOh9i0WFYOi9g0VFWOm9i0RFUOQ:j0oEVOR:j0lEVOV:j0hEWOX:i0hEWOY:i0oDSO;4h:X1QEjNP;Z1iDhNW;g12O1N2O1O1O1O1D_DhNb;T1fDgN\\;V1hDfNZ;X1`0O101O0001O2O0O2N101N1OCPD\\Oo;`0VD@h;?[D@a0GU:g0]EC:HY:e0_EB7I[:e0^EC4I^:e0^EB2J`:e0^EELGf:d0`E6a:JfENZ:4iEFX:;jEBW:?iE^OX:c0iE[OX:f0iEoN`:U1l05K22M5L2M01OO2TOgC;\\<@iC>g<M3L4K5LQYY5",
+                    "size": [
+                        432,
+                        640
+                    ]
+                },
+                "image_id": 324476,
+                "invisible_mask": {
+                    "counts": "Yfn1:T=5K5L4L2N1cCWOR<k0kCWOT<j0kCWOT<j0lCVOT<8lC:T<EoC9R<EQD8P<GTD6l;IWD5i;JZD4f;L[D3e;L^D1c;MaD0`;OQ1NRlV6",
+                    "size": [
+                        432,
+                        640
+                    ]
+                },
+                "bbox": [
+                    74.0,
+                    242.0,
+                    164.0,
+                    101.0
+                ],
+                "occlude_rate": 0.06157811827845079,
+                "category_id": 19,
+                "id": 53960,
+                "category_name": "horse",
+                "supercategory": "animal"
+            },
+            {
+                "segmentation": {
+                    "counts": "nnT24Z=4YCNk;4SD9a;I\\D7d;KUD;k;FQD<o;EoC=Q<`02O001N1O2N3M3mNgCj0a<N3L5Ih]Q6",
+                    "size": [
+                        432,
+                        640
+                    ]
+                },
+                "area": 583,
+                "iscrowd": false,
+                "visible_mask": {
+                    "counts": "nnT24Z=4M2ZCGS<;jCHS<:fCLZ<5bCN]<3aC0^<b003L5L0OO2N3M3mNgCj0a<N3L5Ih]Q6",
+                    "size": [
+                        432,
+                        640
+                    ]
+                },
+                "image_id": 324476,
+                "invisible_mask": {
+                    "counts": "W]U26Z=<FM100O2O1N5L5KlhT6",
+                    "size": [
+                        432,
+                        640
+                    ]
+                },
+                "bbox": [
+                    163.0,
+                    201.0,
+                    18.0,
+                    48.0
+                ],
+                "occlude_rate": 0.17324185218997967,
+                "category_id": 1,
+                "id": 225055,
+                "category_name": "person",
+                "supercategory": "person"
+            },
+            {
+                "segmentation": {
+                    "counts": "gk`32]=1O1O1000000gCMU;2lDNT;2YD2KOj;0XDd0h;\\OUDg0j;ZOUDg0k;YOTDh0k;YOTDh0Y;VOlD5If0Z;WOeD:0`0[;9QEmNo:R1g001O2O0O2N4oNdCh0]<VOdCi0d<M4F9EmB4fga4",
+                    "size": [
+                        432,
+                        640
+                    ]
+                },
+                "area": 713,
+                "iscrowd": false,
+                "visible_mask": {
+                    "counts": "gk`32]=1O1O1000000gCMU;2lDNT;2YD2KOj;0XDd0h;\\OUDg0j;ZOUDg0k;YOTDh0k;YOTDh0Y;VOlD5If0Z;WOeD:0`0[;9QEmNo:R1g001O2O0O2N4oNdCh0]<VOdCi0d<M4F9EmB4fga4",
+                    "size": [
+                        432,
+                        640
+                    ]
+                },
+                "image_id": 324476,
+                "bbox": [
+                    267.0,
+                    204.0,
+                    28.0,
+                    66.0
+                ],
+                "occlude_rate": 0,
+                "category_id": 1,
+                "id": 227747,
+                "category_name": "person",
+                "supercategory": "person"
+            },
+            {
+                "segmentation": {
+                    "counts": "YUm44\\=1N100XONQD3o;OoC1P<1oCOQ<3lCNK0i;2\\DNH5j;NWD3M3j;JUDm0i;?N2O1]DXN[;V1dD^OZ;a0iD\\OZ;`0jD]O[;>iD_OX;?kD^OV;`0nD\\OU;b0nD[OU;8\\cW3",
+                    "size": [
+                        432,
+                        640
+                    ]
+                },
+                "area": 704,
+                "iscrowd": false,
+                "visible_mask": {
+                    "counts": "YUm44\\=1N100XONQD3o;OoC1P<1oCOQ<3lCNK0i;2\\DNH5j;NWD3M3j;JUDm0i;?N2O1]DXN[;V1dD^OZ;a0iD\\OZ;`0jD]O[;>iD_OX;?kD^OV;`0nD\\OU;b0nD[OU;8\\cW3",
+                    "size": [
+                        432,
+                        640
+                    ]
+                },
+                "image_id": 324476,
+                "bbox": [
+                    372.0,
+                    207.0,
+                    22.0,
+                    68.0
+                ],
+                "occlude_rate": 0,
+                "category_id": 1,
+                "id": 233870,
+                "category_name": "person",
+                "supercategory": "person"
+            },
+            {
+                "segmentation": {
+                    "counts": "Yfn1:T=5K5L4L2^OZOWDg0LWOR;2PE7Mb0NWOT;3mD60a0NWOT;4jD9O?3TOS;Y1mDYOS;f0PEXOP;g0SEVOn:i0VETOj:k0YESOg:l0\\EROd:n0]EQOd:LhDj0g0WOc:MhDi0i0WOi:f0Q1N2J7N2O4K6JmhT6",
+                    "size": [
+                        432,
+                        640
+                    ]
+                },
+                "area": 904,
+                "iscrowd": false,
+                "visible_mask": {
+                    "counts": "Yfn1:T=5K5L4L2^OZOWDg0LWOR;2PE7Mb0NWOT;3mD60a0NWOT;4jD9O?3TOS;Y1mDYOS;f0PEXOP;g0SEVOn:i0VETOj:k0YESOg:l0\\EROd:n0]EQOd:LhDj0g0WOc:MhDi0i0WOi:f0Q1N2J7N2O4K6JmhT6",
+                    "size": [
+                        432,
+                        640
+                    ]
+                },
+                "image_id": 324476,
+                "bbox": [
+                    148.0,
+                    222.0,
+                    25.0,
+                    73.0
+                ],
+                "occlude_rate": 0,
+                "category_id": 1,
+                "id": 1216333,
+                "category_name": "person",
+                "supercategory": "person"
+            }
+        ]
+    },
+    "COCO_val2014_000000055074": {
+        "image_info": {
+            "license": 1,
+            "file_name": "COCO_val2014_000000055074.jpg",
+            "coco_url": "http://mscoco.org/images/55074",
+            "height": 381,
+            "width": 640,
+            "date_captured": "2013-11-19 20:57:38",
+            "flickr_url": "http://farm4.staticflickr.com/3146/2682183636_0eb727df8f_z.jpg",
+            "id": 55074
+        },
+        "annotations_count": 4,
+        "annotations": [
+            {
+                "segmentation": {
+                    "counts": "kZX17Z;`0K3M2N2N2N2O1M3N2M2O2M2N2[FfNe8\\1YGgNe8Z1ZGgNe8Z1ZGhNd8Y1mF]N5=m8W1lF`N1>P9T1nFWOQ9l1N101N1O1O1O1O2N100O1O1O100O10@]GeMc8[2`GcM`8]2`GcM`8]2`GcM_8]2cG[Md8e2:0O10000O1000FoFhMP9X2QGhMn8X2TGgMk8Y2VGgMb8`2_G`M`8`2aG`M^8`2cG`M\\8_2fGaMZ8^2hGaMW8_2jG`MW8_2jGaMU8_2mG`MS8_2f0O1O01000K5N200O1N2M3L5E:N2N2HfEkN]:S17O2O00001O1O1XOWE:j:EVE;k:DVE;k:C]E6d:I\\E7f:F\\E9T;0001O01O01O01O010O0010O0O101O00001O02N010O0010O001O000010O01O01O1N2M2N3N101N2O1O1O0O2O1O2N001O00\\OVE6i:H[E5f:I`E3`:Kl0La[a4",
+                    "size": [
+                        381,
+                        640
+                    ]
+                },
+                "area": 6942,
+                "iscrowd": false,
+                "visible_mask": {
+                    "counts": "kZX17Z;`0K3M2N2N2N2O1M3N2M2O2M2N2[FfNe8\\1YGgNe8Z1ZGgNe8Z1ZGhNd8Y1mF]N5=m8W1lF`N1>P9T1nFWOQ9l1N101N1O1O1O1O2N100O1O1O100O10@]GeMc8[2`GcM`8]2`GcM`8]2`GcM_8]2cG[Md8e2:0O10000O1000FoFhMP9X2QGhMn8X2TGgMk8Y2VGgMb8`2_G`M`8`2aG`M^8`2cG`M\\8_2fGaMZ8^2hGaMW8_2jG`MW8_2jGaMU8_2mG`MS8_2f0O1O01000K5N200O1N2M3L5E:N2N2HfEkN]:S17O2O00001O1O1XOWE:j:EVE;k:DVE;k:C]E6d:I\\E7f:F\\E9T;0001O01O01O01O010O0010O0O101O00001O02N010O0010O001O000010O01O01O1N2M2N3N101N2O1O1O0O2O1O2N001O00\\OVE6i:H[E5f:I`E3`:Kl0La[a4",
+                    "size": [
+                        381,
+                        640
+                    ]
+                },
+                "image_id": 55074,
+                "bbox": [
+                    108.0,
+                    91.0,
+                    141.0,
+                    125.0
+                ],
+                "occlude_rate": 0,
+                "category_id": 1,
+                "id": 441041,
+                "category_name": "person",
+                "supercategory": "person"
+            },
+            {
+                "segmentation": {
+                    "counts": "eWa03c;8K6L3N3L3I7O2M2O1O1N2N1O2O1N2N1O2N2O1N2N2N2O1N2N2N101RGWNd7k1lGUNE6\\8g1eGoNY8[2O1O1O1O1XH]LU7e3bHfLZ7_3aHcL]7P4N100O1O2O0O1O2O0O1O1O101N1O100O1O1O10ZMRI=m6^O\\I?c6]OeIa0Z6]OnI@@VOa6V1UJnN1Jh5V1`J]N7<Y5U1XLiNh3W1YLgNa3I_I`1Q3fN^3c1cL\\N\\3e1gLVNZ3e1dIWNg9i17O1N101O1N2O1N1O2O001N2DbEWO`:i0:00O2O02O2M1O100ON3K5O0_OQE3Q;KPE4Q;LoD2T;MmDOV;1kDMW;2<Mngg5",
+                    "size": [
+                        381,
+                        640
+                    ]
+                },
+                "area": 7412,
+                "iscrowd": false,
+                "visible_mask": {
+                    "counts": "eWa03c;8K6L3N3L3I7O2M2O1O1N2N1O2O1N2N1O2N2O1N2N2N2O1N2N2N101RGWNd7k1lGUNE6\\8g1eGoNY8[2O1O1O1O1XH]LU7e3bHfLZ7_3aHcL]7P4N100O1O2O0O1O2O0O1O1O101N1O100O1O1O10ZMRI=m6^O\\I?c6]OeIa0Z6]OnI@@VOa6V1UJnN1Jh5V1`J]N7<Y5U1XLiNh3W1YLgNa3I_I`1Q3fN^3c1cL\\N\\3e1gLVNZ3e1dIWNg9i17O1N101O1N2O1N1O2O001N2DbEWO`:i0:00O2O02O2M1O100ON3K5O0_OQE3Q;KPE4Q;LoD2T;MmDOV;1kDMW;2<Mngg5",
+                    "size": [
+                        381,
+                        640
+                    ]
+                },
+                "image_id": 55074,
+                "bbox": [
+                    46.0,
+                    47.0,
+                    100.0,
+                    179.0
+                ],
+                "occlude_rate": 0,
+                "category_id": 1,
+                "id": 482700,
+                "category_name": "person",
+                "supercategory": "person"
+            },
+            {
+                "segmentation": {
+                    "counts": "h[b33i;1N3N1O2N1O2N1O1O1OO10000O01000O100O10000O10000O1000O0100O10000O10000O100O10O10O10000O100OO2001N2O1OgjX3",
+                    "size": [
+                        381,
+                        640
+                    ]
+                },
+                "area": 507,
+                "iscrowd": false,
+                "visible_mask": {
+                    "counts": "h[b33i;1N3N1O2N1O2N1O1O1OO10000O01000O100O10000O10000O1000O0100O10000O10000O100O10O10O10000O100OO2001N2O1OgjX3",
+                    "size": [
+                        381,
+                        640
+                    ]
+                },
+                "image_id": 55074,
+                "bbox": [
+                    307.0,
+                    92.0,
+                    51.0,
+                    59.0
+                ],
+                "occlude_rate": 0,
+                "category_id": 39,
+                "id": 628122,
+                "category_name": "baseball bat",
+                "supercategory": "sports"
+            },
+            {
+                "segmentation": {
+                    "counts": "noT3710\\;<L2O1N101O0O2O000000000000I601N1O2N2O0M4O10O10O10O10O0100O001O1RMKSJ6l5NQJ2j59oIHo5`0YHWOh0:o6b0THYOj05P7l0lGTOQ10R7b1lH_NP7CmGP2Q1]NP7j1nHVNQ7n1lHSNR7Q2lHoMR7V2kHjMU7Z2gHeMY7^2dHcM[7a2bH_M[7f2bH[M[7e3N2O1O1O10N11000O10000O10000O101N100M3L5K4L4L5K5K6J9LO0010O010O1oNQGSOQ9i0QGVOP9g0SGYOl8f0VGYOn8b0TG^Ok8a0WG^Oj8a0WG_Oh8a0YG^Oh8a0YG_Oh8>ZGAg8>ZGBh8:[GEg86\\GKe80^G4_8IdG6^8GcG:^8BdG?[8_OgGb0X8\\OjGd0V8ZOlGg0T8VOnGj0d90O01O001O002N1O1O1O1O1O1O18H01N2N1O1O0O2N1O2N1O1O1O001O1O1O1O1O1O1O1O1O1O0010O01O003LVUc2",
+                    "size": [
+                        381,
+                        640
+                    ]
+                },
+                "area": 8035,
+                "iscrowd": false,
+                "visible_mask": {
+                    "counts": "noT3710\\;<L2O1N101O0O2O000000000000I601N1O2N2O0M4O10O10O10O10O0100O001O1RMKSJ6l5NQJ2j59oIHo5`0YHWOh0:o6b0THYOj05P7l0lGTOQ10R7b1lH_NP7CmGP2Q1]NP7j1nHVNQ7n1lHSNR7Q2lHoMR7V2kHjMU7Z2gHeMY7^2dHcM[7]2fHcMW7_2iHbMT7`2hHeMV7[2kHfMT7Z2lHgMS7Y2lHiMS7W2mHjMS7U2lHkMU7U2kHlMU7S2kHnMU7Q2jHPNW7o1iHRNW7m1iHTNW7k1hHVNY7i1gHXNY7g1gHZNY7d1gH]NZ7b1fH_N[7_1dHbN]7]1cHdN]7[1cHcN`7\\1_HbNf7\\1ZHaNj7^1VH_Nn7`1QH^NT8`1lG]NY8a1fG]N`8`1`G]Ni8\\1XGfNg8Y1XGiNh8V1XGlNh8R1XGoNh8P1WGSOi8k0WGVOj8h0UGZNLo0Q9a0UG`NLn0P9`0ZG@e8`0SGbN3m0n8=nFfN6m0k8=nFfN9l0j8a0WG_Oh8a0YG^Oh8a0YG_Oh8>ZGAg8>ZGBh8:[GEg86\\GKe80^G4_8IdG6^8GcG:^8BdG?[8_OgGb0X8\\OjGd0V8ZOlGg0T8VOnGj0d90O01O001O002N1O1O1O1O1O1O18H01N2N1O1O0O2N1O2N1O1O1O001O1O1O1O1O1O1O1O1O1O0010O01O003LVUc2",
+                    "size": [
+                        381,
+                        640
+                    ]
+                },
+                "image_id": 55074,
+                "invisible_mask": {
+                    "counts": "[^f34h;3M7H1000O100O10000O10000O1000O0100O10000O10000O100O10O10O10000O100OO2001N2O1OgjX3",
+                    "size": [
+                        381,
+                        640
+                    ]
+                },
+                "bbox": [
+                    271.0,
+                    27.0,
+                    145.0,
+                    166.0
+                ],
+                "occlude_rate": 0.046297448656341327,
+                "category_id": 1,
+                "id": 1262869,
+                "category_name": "person",
+                "supercategory": "person"
+            }
+        ]
+    },
+    "COCO_val2014_000000007682": {
+        "image_info": {
+            "license": 4,
+            "file_name": "COCO_val2014_000000007682.jpg",
+            "coco_url": "http://mscoco.org/images/7682",
+            "height": 640,
+            "width": 427,
+            "date_captured": "2013-11-18 02:09:54",
+            "flickr_url": "http://farm3.staticflickr.com/2848/10217323363_fe39983c36_z.jpg",
+            "id": 7682
+        },
+        "annotations_count": 1,
+        "annotations": [
+            {
+                "segmentation": {
+                    "counts": "m`0o2Q>P3O1O1O1O1O1O1O1O1O1O1O1O1O1N2O1O1O1O1O1O1O1O101N10000O100O100O100O10000O100O100O100O10000O100O100O10000O100O100O10000O10000O10000O10000O10000O10000O100O10000O10000O10000O10000O10000O10000O10000O100O10000O100O1QIaH]1_7bNhHW1Y7hNnHR1R7lNVIn0j6QO]Ih0d6WOcIc0]6[OhIa0Y6^OiIa0W6^OlI`0T6_OnI?S6_OQJ?o5@SJ>n5ATJ>l5@XJ>h5AZJ=g5B]J;c5CcJ8^5GfJ6Z5GmJlK[Me3i7<SKcK]MP4`79hKFX47lKGU46oKIQ43TLKm33VLLj33XLLh33ZLKg34[LKe35]LdLkK[2i7P1^LYLWLd2[7R1\\MlNd2T1_MhNb2W1bMfN^2Y1eMdN\\2[1hMbNX2^1kM_NU2`1nM]NS2b1PN\\NP2d1RNZNn1e1UNXNl1g1WNWNi1h1ZNUNg1k1[NSNe1l1_NQNa1n1bNoM_1Q2gNiMY1V2oNcMQ1\\2TO_Mm0`2UO_Mk0_2XO_Mi0`2YO_Mg0`2[O_Me0`2\\O_Me0`2]O_Mc0`2_O_Ma0`2A^M`0a2B^M>a2D[M?d2BTMf0j2Y8O1O1O1O11O1O2N1O1O2N1O1O2N1O1O2N1O1O00O100O100O1O100O1O100O1O100O1O100O1O100000000001O0000001O000000001O0000001O0000001O000000001O0000001O00001O0000001O00001O0000001O00001O00001O00001O001O0010O01O00001O001O001O00001O001O2N1O2N2N1O2N1O2N2N1O2N1O2N2N2^FhKX3Y4_LQL_3Q4WLZLf3h3PLbLn3`3mKeLQ4]3iKjLT4X3fKnLX4S3cKSM[4o2`KUM_4m2\\KXMb4j2[KXMd4j2YKXMf4j2VKZMh4h2UKZMj4g2TK[Mk4g2QK\\Mn4h2mJ[MQ5n2oH\\J7h2i6T3_H_Je0_2k6[3nGaJQ1Y2P7Y4jHnKT7T4eHRLZ7P4_HVL`7X4lGPLR8P8O1O1O1O1O001O1O001O1O001O001O1O001O1O001O1O001O001O1O001O1O001O1O001O001O1O001O1O001O1O001O001O1O001O1O001O1O001O001O1O001O1O001O001O001O00001O001O00001O001O00001O001O00001O001O00001O001O00001O001O001O00001O001O00001O001OZ2fMc2]M[]O",
+                    "size": [
+                        640,
+                        427
+                    ]
+                },
+                "area": 149051,
+                "iscrowd": false,
+                "visible_mask": {
+                    "counts": "m`0o2Q>P3O1O1O1O1O1O1O1O1O1O1O1O1O1N2O1O1O1O1O1O1O1O101N10000O100O100O100O10000O100O100O100O10000O100O100O10000O100O100O10000O10000O10000O10000O10000O10000O100O10000O10000O10000O10000O10000O10000O10000O100O10000O100O1QIaH]1_7bNhHW1Y7hNnHR1R7lNVIn0j6QO]Ih0d6WOcIc0]6[OhIa0Y6^OiIa0W6^OlI`0T6_OnI?S6_OQJ?o5@SJ>n5ATJ>l5@XJ>h5AZJ=g5B]J;c5CcJ8^5GfJ6Z5GmJlK[Me3i7<SKcK]MP4`79hKFX47lKGU46oKIQ43TLKm33VLLj33XLLh33ZLKg34[LKe35]LdLkK[2i7P1^LYLWLd2[7R1\\MlNd2T1_MhNb2W1bMfN^2Y1eMdN\\2[1hMbNX2^1kM_NU2`1nM]NS2b1PN\\NP2d1RNZNn1e1UNXNl1g1WNWNi1h1ZNUNg1k1[NSNe1l1_NQNa1n1bNoM_1Q2gNiMY1V2oNcMQ1\\2TO_Mm0`2UO_Mk0_2XO_Mi0`2YO_Mg0`2[O_Me0`2\\O_Me0`2]O_Mc0`2_O_Ma0`2A^M`0a2B^M>a2D[M?d2BTMf0j2Y8O1O1O1O11O1O2N1O1O2N1O1O2N1O1O2N1O1O00O100O100O1O100O1O100O1O100O1O100O1O100000000001O0000001O000000001O0000001O0000001O000000001O0000001O00001O0000001O00001O0000001O00001O00001O00001O001O0010O01O00001O001O001O00001O001O2N1O2N2N1O2N1O2N2N1O2N1O2N2N2^FhKX3Y4_LQL_3Q4WLZLf3h3PLbLn3`3mKeLQ4]3iKjLT4X3fKnLX4S3cKSM[4o2`KUM_4m2\\KXMb4j2[KXMd4j2YKXMf4j2VKZMh4h2UKZMj4g2TK[Mk4g2QK\\Mn4h2mJ[MQ5n2oH\\J7h2i6T3_H_Je0_2k6[3nGaJQ1Y2P7Y4jHnKT7T4eHRLZ7P4_HVL`7X4lGPLR8P8O1O1O1O1O001O1O001O1O001O001O1O001O1O001O1O001O001O1O001O1O001O1O001O001O1O001O1O001O1O001O001O1O001O1O001O1O001O001O1O001O1O001O001O001O00001O001O00001O001O00001O001O00001O001O00001O001O00001O001O001O00001O001O00001O001OZ2fMc2]M[]O",
+                    "size": [
+                        640,
+                        427
+                    ]
+                },
+                "image_id": 7682,
+                "bbox": [
+                    0.0,
+                    88.0,
+                    427.0,
+                    550.0
+                ],
+                "occlude_rate": 0,
+                "category_id": 1,
+                "id": 433800,
+                "category_name": "person",
+                "supercategory": "person"
+            }
+        ]
+    },
+    "COCO_val2014_000000145426": {
+        "image_info": {
+            "license": 5,
+            "file_name": "COCO_val2014_000000145426.jpg",
+            "coco_url": "http://mscoco.org/images/145426",
+            "height": 500,
+            "width": 307,
+            "date_captured": "2013-11-16 14:13:41",
+            "flickr_url": "http://farm3.staticflickr.com/2065/2134237805_efe9435efd_z.jpg",
+            "id": 145426
+        },
+        "annotations_count": 1,
+        "annotations": [
+            {
+                "segmentation": {
+                    "counts": "^UX13`?3M4f@Ml>>O1O2K4O1O1O100O1O1O1N200O2L3O1O1000000O2O000000000000000000000000000000000O10000000000O1O010O001O001QBbNg=_1XBfNc=[1\\BgNb=Z1]BhNa=f1O9G0001N101O1O0102M2O1O0OO2OTEfM`8Y2]GjMd8U2ZGmMf8S2YGmMi8Q2XGnMj8Q2UGPNl8o1SGRNn8n1PGSNP9o1mFRNT9P2XEPNl00m9Q2TEVNd0MZ:m1PEBP;>nDCR;`20001O0OAQE\\Ln:U2XEfMi04n9U2eFlMZ9S2hFQNS9n1nFiN[8U1hGiMSNm0S:Y1lGjMSNj0R:\\1lGjMT9U2mFkMS9T2oFkMQ9T2PGlMo8W2oFiMQ9\\2jFdMV9^2iFbMV9^2jFbMV9c2eF]M[9d2eF\\MZ9e2eF\\MY9e2hF\\MV9d2kF\\MT9d2nF[MQ9f2UEZMe10U9n2iFQMW9R3d13M3M3M3MkNoCkNm;U1XDiMLh0i;^1eDdNX;[1jDgNJQOj:W2gEaNYO\\Oo:R2mEkNS:T1RFiNm9T1ZFhNf9U1aFiN]9V1gFTOl8k0YGoNi8Q1ZGjNh8U1[G\\NmM0j:b1\\G]No8b1SG^Nl8a1VG_Nj8`1VG`Nj8_1WGbNh8]1ZGcNe8\\1\\GdNe8Z1\\GgNc8Y1]GhNc8V1^GbN_M5Q;X1PEaN]2>b8P1PEbN10[22eM7m:T1REdN00\\21fM8k:R1SEdN01]21gM9f:P1VEhN_2OhM<^:k0[EjN`2OkM7g9H_F[1Q2fNoMNa9:YFQ1FdN_23S8>gEg0GjN_21Q8c0gE`0HmNa20n7g0hE?[2jNl7j0hE9^2mNi7m0hE3a2oNg7Q1hELc2SOd7U1fEGg2TOc7V2^HjMb7U2`HjM`7U2P300O1O1O101cNfB=[=CfB;[=FfB7\\=HeB6]=IdB5]=LcB1`=NbBO`=0aBNa=2`BJd=4o001N2O000O100O10000O100O101O000001O0001O000001O01O11O001O00002OO1O2M2Jbe8",
+                    "size": [
+                        500,
+                        307
+                    ]
+                },
+                "area": 12188,
+                "iscrowd": false,
+                "visible_mask": {
+                    "counts": "^UX13`?3M4f@Ml>>O1O2K4O1O1O100O1O1O1N200O2L3O1O1000000O2O000000000000000000000000000000000O10000000000O1O010O001O001QBbNg=_1XBfNc=[1\\BgNb=Z1]BhNa=f1O9G0001N101O1O0102M2O1O0OO2OTEfM`8Y2]GjMd8U2ZGmMf8S2YGmMi8Q2XGnMj8Q2UGPNl8o1SGRNn8n1PGSNP9o1mFRNT9P2XEPNl00m9Q2TEVNd0MZ:m1PEBP;>nDCR;`20001O0OAQE\\Ln:U2XEfMi04n9U2eFlMZ9S2hFQNS9n1nFiN[8U1hGiMSNm0S:Y1lGjMSNj0R:\\1lGjMT9U2mFkMS9T2oFkMQ9T2PGlMo8W2oFiMQ9\\2jFdMV9^2iFbMV9^2jFbMV9c2eF]M[9d2eF\\MZ9e2eF\\MY9e2hF\\MV9d2kF\\MT9d2nF[MQ9f2UEZMe10U9n2iFQMW9R3d13M3M3M3MkNoCkNm;U1XDiMLh0i;^1eDdNX;[1jDgNJQOj:W2gEaNYO\\Oo:R2mEkNS:T1RFiNm9T1ZFhNf9U1aFiN]9V1gFTOl8k0YGoNi8Q1ZGjNh8U1[G\\NmM0j:b1\\G]No8b1SG^Nl8a1VG_Nj8`1VG`Nj8_1WGbNh8]1ZGcNe8\\1\\GdNe8Z1\\GgNc8Y1]GhNc8V1^GbN_M5Q;X1PEaN]2>b8P1PEbN10[22eM7m:T1REdN00\\21fM8k:R1SEdN01]21gM9f:P1VEhN_2OhM<^:k0[EjN`2OkM7g9H_F[1Q2fNoMNa9:YFQ1FdN_23S8>gEg0GjN_21Q8c0gE`0HmNa20n7g0hE?[2jNl7j0hE9^2mNi7m0hE3a2oNg7Q1hELc2SOd7U1fEGg2TOc7V2^HjMb7U2`HjM`7U2P300O1O1O101cNfB=[=CfB;[=FfB7\\=HeB6]=IdB5]=LcB1`=NbBO`=0aBNa=2`BJd=4o001N2O000O100O10000O100O101O000001O0001O000001O01O11O001O00002OO1O2M2Jbe8",
+                    "size": [
+                        500,
+                        307
+                    ]
+                },
+                "image_id": 145426,
+                "bbox": [
+                    82.0,
+                    58.0,
+                    207.0,
+                    205.0
+                ],
+                "occlude_rate": 0,
+                "category_id": 16,
+                "id": 37294,
+                "category_name": "bird",
+                "supercategory": "animal"
+            }
+        ]
+    }
+}
